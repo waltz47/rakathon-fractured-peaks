@@ -1,0 +1,3512 @@
+[
+    {
+        "product_name": "EliteSound Noise-Canceling Headphones",
+        "price": "$199.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "150 units",
+        "dimensions": "8 x 6 x 2 inches",
+        "reviews": "4.7 stars (2,500 reviews)",
+        "description": "High-fidelity wireless headphones with active noise cancelation and 30 hours of battery life. The soft ear cushions provide comfort for long listening sessions, and the headphones are foldable for easy storage."
+    },
+    {
+        "product_name": "ZenRest Memory Foam Mattress",
+        "price": "$799.99",
+        "warranty": "10 years",
+        "refundable": "No",
+        "inventory": "20 units",
+        "dimensions": "80 x 60 x 12 inches",
+        "reviews": "4.6 stars (1,800 reviews)",
+        "description": "A queen-size memory foam mattress with cooling gel technology. The mattress contours to your body for personalized support and features a hypoallergenic cover that is removable and washable."
+    },
+    {
+        "product_name": "SmartWave Fitness Tracker",
+        "price": "$149.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "75 units",
+        "dimensions": "1.5 x 0.5 x 9 inches",
+        "reviews": "4.3 stars (5,300 reviews)",
+        "description": "A sleek fitness tracker with heart rate monitoring, sleep tracking, and GPS. The waterproof design allows you to wear it while swimming, and the battery lasts up to 10 days on a single charge."
+    },
+    {
+        "product_name": "GlideMaster Recliner Chair",
+        "price": "$349.99",
+        "warranty": "5 years",
+        "refundable": "No",
+        "inventory": "10 units",
+        "dimensions": "42 x 30 x 36 inches",
+        "reviews": "4.8 stars (1,250 reviews)",
+        "description": "A luxurious leather recliner with smooth gliding motion. It features a supportive headrest, plush armrests, and a durable reclining mechanism. Ideal for relaxing after a long day."
+    },
+    {
+        "product_name": "EcoCool Smart Thermostat",
+        "price": "$199.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "60 units",
+        "dimensions": "5 x 5 x 1 inches",
+        "reviews": "4.5 stars (3,000 reviews)",
+        "description": "A Wi-Fi-enabled smart thermostat that learns your schedule and adjusts the temperature accordingly. Control it remotely via your smartphone, and save on energy bills with its energy-efficient design."
+    },
+    {
+        "product_name": "PureAir Air Purifier",
+        "price": "$179.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "90 units",
+        "dimensions": "10 x 10 x 20 inches",
+        "reviews": "4.4 stars (2,000 reviews)",
+        "description": "A compact air purifier with a HEPA filter that removes 99.97% of airborne particles, including allergens, dust, and smoke. Features a quiet mode for nighttime use and an indicator light for filter replacement."
+    },
+    {
+        "product_name": "LumaGlow Desk Lamp Plus",
+        "price": "$49.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "200 units",
+        "dimensions": "6 x 6 x 18 inches",
+        "reviews": "4.2 stars (500 reviews)",
+        "description": "A modern desk lamp with adjustable brightness levels and a built-in USB charging port. The lamp features a sleek, space-saving design and an energy-efficient LED bulb with a lifespan of 50,000 hours."
+    },
+    {
+        "product_name": "ErgoFlex Standing Desk",
+        "price": "$499.99",
+        "warranty": "5 years",
+        "refundable": "Yes",
+        "inventory": "50 units",
+        "dimensions": "60 x 30 x 45 inches",
+        "reviews": "4.7 stars (1,800 reviews)",
+        "description": "An adjustable standing desk with a smooth electric lift system. The large work surface accommodates multiple monitors, and the frame is built with durable steel. It also features a programmable height memory function."
+    },
+    {
+        "product_name": "CaliBrew Espresso Machine",
+        "price": "$299.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "35 units",
+        "dimensions": "12 x 10 x 14 inches",
+        "reviews": "4.6 stars (3,200 reviews)",
+        "description": "A professional-grade espresso machine with 15-bar pressure for rich and creamy espresso. Features a steam wand for frothing milk, a removable water tank, and a sleek stainless steel finish."
+    },
+    {
+        "product_name": "TranquilSleep Weighted Blanket",
+        "price": "$79.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "120 units",
+        "dimensions": "60 x 80 inches",
+        "reviews": "4.5 stars (4,000 reviews)",
+        "description": "A 15-pound weighted blanket designed to promote relaxation and improve sleep. The breathable cotton cover is soft and comfortable, making it perfect for year-round use. Available in multiple colors."
+    },
+    {
+        "product_name": "VistaMax 4K Monitor",
+        "price": "$399.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "45 units",
+        "dimensions": "27 x 18 x 7 inches",
+        "reviews": "4.8 stars (3,500 reviews)",
+        "description": "A 27-inch 4K monitor with vibrant colors and HDR support. The ultra-slim bezel design makes it ideal for multi-monitor setups. It also features multiple connectivity options, including HDMI and DisplayPort."
+    },
+    {
+        "product_name": "PureStream Bluetooth Speaker",
+        "price": "$79.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "95 units",
+        "dimensions": "8 x 3 x 3 inches",
+        "reviews": "4.4 stars (2,700 reviews)",
+        "description": "A portable Bluetooth speaker with 360-degree sound and up to 12 hours of playtime. The speaker is water-resistant, making it perfect for outdoor use, and comes with a built-in microphone for hands-free calls."
+    },
+    {
+        "product_name": "UrbanFit Adjustable Dumbbells",
+        "price": "$149.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "60 units",
+        "dimensions": "15 x 8 x 8 inches",
+        "reviews": "4.7 stars (2,100 reviews)",
+        "description": "A set of adjustable dumbbells that can be easily changed from 5 to 50 pounds. The compact design saves space, and the ergonomic handles provide a comfortable grip during workouts."
+    },
+    {
+        "product_name": "LuxComfort Memory Foam Pillow",
+        "price": "$59.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "180 units",
+        "dimensions": "24 x 16 x 5 inches",
+        "reviews": "4.5 stars (1,500 reviews)",
+        "description": "A memory foam pillow with cooling gel technology, designed to provide optimal neck and head support. The breathable cover is hypoallergenic and machine washable for easy care."
+    },
+    {
+        "product_name": "ClaritySound Home Theater System",
+        "price": "$499.99",
+        "warranty": "5 years",
+        "refundable": "Yes",
+        "inventory": "30 units",
+        "dimensions": "18 x 15 x 10 inches (main unit)",
+        "reviews": "4.8 stars (900 reviews)",
+        "description": "A 5.1-channel home theater system with immersive surround sound and wireless rear speakers. The system supports Dolby Atmos for a cinematic experience and includes a powerful subwoofer for deep bass."
+    },
+    {
+        "product_name": "SwiftCharge Wireless Charging Pad",
+        "price": "$29.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "300 units",
+        "dimensions": "4 x 4 x 0.5 inches",
+        "reviews": "4.3 stars (1,100 reviews)",
+        "description": "A sleek wireless charging pad compatible with Qi-enabled devices. The compact design makes it easy to carry, and the non-slip surface keeps your device in place while charging. Fast charging supported."
+    },
+    {
+        "product_name": "OrbitView Smart Security Camera",
+        "price": "$149.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "50 units",
+        "dimensions": "5 x 5 x 5 inches",
+        "reviews": "4.6 stars (2,300 reviews)",
+        "description": "A smart security camera with 360-degree rotation and night vision. The camera connects to your home Wi-Fi and allows you to monitor your home remotely through a mobile app. Motion detection and two-way audio included."
+    },
+    {
+        "product_name": "ComfyNest Bean Bag Chair",
+        "price": "$149.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "40 units",
+        "dimensions": "48 x 48 x 36 inches",
+        "reviews": "4.7 stars (1,300 reviews)",
+        "description": "A large bean bag chair filled with premium memory foam. The chair conforms to your body for maximum comfort and features a removable, machine-washable cover. Available in multiple colors to match your decor."
+    },
+    {
+        "product_name": "SonicClean Electric Toothbrush",
+        "price": "$89.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "250 units",
+        "dimensions": "9 x 1 x 1 inches",
+        "reviews": "4.4 stars (3,000 reviews)",
+        "description": "An electric toothbrush with advanced sonic technology, offering up to 40,000 brush strokes per minute. The toothbrush has multiple brushing modes and a 2-minute timer with a 30-second interval reminder."
+    },
+    {
+        "product_name": "SonicClean Electric Toothbrush",
+        "price": "$89.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "250 units",
+        "dimensions": "9 x 1 x 1 inches",
+        "reviews": "4.4 stars (3,000 reviews)",
+        "description": "An electric toothbrush with advanced sonic technology, offering up to 40,000 brush strokes per minute. The toothbrush has multiple brushing modes and a 2-minute timer with a 30-second interval reminder."
+    },
+    {
+        "product_name": "LumaGlow Desk Lamp",
+        "price": "$49.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "200 units",
+        "dimensions": "6 x 6 x 18 inches",
+        "reviews": "4.2 stars (500 reviews)",
+        "description": "A modern desk lamp with adjustable brightness levels and a built-in USB charging port. The lamp features a sleek, space-saving design and an energy-efficient LED bulb with a lifespan of 50,000 hours."
+    },
+    {
+        "product_name": "PureAir Air Purifier pro",
+        "price": "$179.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "90 units",
+        "dimensions": "10 x 10 x 20 inches",
+        "reviews": "4.4 stars (2,000 reviews)",
+        "description": "A compact air purifier with a HEPA filter that removes 99.97% of airborne particles, including allergens, dust, and smoke. Features a quiet mode for nighttime use and an indicator light for filter replacement."
+    },
+    {
+        "product_name": "VistaMax 4K Monitor",
+        "price": "$399.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "45 units",
+        "dimensions": "27 x 18 x 7 inches",
+        "reviews": "4.8 stars (3,500 reviews)",
+        "description": "A 27-inch 4K monitor with vibrant colors and HDR support. The ultra-slim bezel design makes it ideal for multi-monitor setups. It also features multiple connectivity options, including HDMI and DisplayPort."
+    },
+    {
+        "product_name": "SwiftCharge Wireless Charging Pad",
+        "price": "$29.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "300 units",
+        "dimensions": "4 x 4 x 0.5 inches",
+        "reviews": "4.3 stars (1,100 reviews)",
+        "description": "A sleek wireless charging pad compatible with Qi-enabled devices. The compact design makes it easy to carry, and the non-slip surface keeps your device in place while charging. Fast charging supported."
+    },
+    {
+        "product_name": "UrbanFit Adjustable Dumbbells",
+        "price": "$149.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "60 units",
+        "dimensions": "15 x 8 x 8 inches",
+        "reviews": "4.7 stars (2,100 reviews)",
+        "description": "A set of adjustable dumbbells that can be easily changed from 5 to 50 pounds. The compact design saves space, and the ergonomic handles provide a comfortable grip during workouts."
+    },
+    {
+        "product_name": "EcoCool Smart Thermostat Pro",
+        "price": "$199.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "60 units",
+        "dimensions": "5 x 5 x 1 inches",
+        "reviews": "4.5 stars (3,000 reviews)",
+        "description": "A Wi-Fi-enabled smart thermostat that learns your schedule and adjusts the temperature accordingly. Control it remotely via your smartphone, and save on energy bills with its energy-efficient design."
+    },
+    {
+        "product_name": "HomeFlex Adjustable Sofa",
+        "price": "$899.99",
+        "warranty": "7 years",
+        "refundable": "No",
+        "inventory": "8 units",
+        "dimensions": "84 x 36 x 32 inches",
+        "reviews": "4.6 stars (1,200 reviews)",
+        "description": "A stylish and comfortable sofa with an adjustable backrest for lounging. The durable fabric cover is stain-resistant, and the cushions are filled with high-density foam for extra comfort."
+    },
+    {
+        "product_name": "PureStream Bluetooth Speaker",
+        "price": "$79.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "95 units",
+        "dimensions": "8 x 3 x 3 inches",
+        "reviews": "4.4 stars (2,700 reviews)",
+        "description": "A portable Bluetooth speaker with 360-degree sound and up to 12 hours of playtime. The speaker is water-resistant, making it perfect for outdoor use, and comes with a built-in microphone for hands-free calls."
+    },
+    {
+        "product_name": "EcoBreeze Ceiling Fan",
+        "price": "$129.99",
+        "warranty": "5 years",
+        "refundable": "Yes",
+        "inventory": "120 units",
+        "dimensions": "52 x 52 x 15 inches",
+        "reviews": "4.5 stars (900 reviews)",
+        "description": "A modern ceiling fan with energy-efficient LED lights and three-speed settings. The fan includes a remote control and is easy to install, making it a perfect addition to any room."
+    },
+    {
+        "product_name": "LuxComfort Memory Foam Pillow",
+        "price": "$59.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "180 units",
+        "dimensions": "24 x 16 x 5 inches",
+        "reviews": "4.5 stars (1,500 reviews)",
+        "description": "A memory foam pillow with cooling gel technology, designed to provide optimal neck and head support. The breathable cover is hypoallergenic and machine washable for easy care."
+    },
+    {
+        "product_name": "OrbitView Smart Security Camera",
+        "price": "$149.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "50 units",
+        "dimensions": "5 x 5 x 5 inches",
+        "reviews": "4.6 stars (2,300 reviews)",
+        "description": "A smart security camera with 360-degree rotation and night vision. The camera connects to your home Wi-Fi and allows you to monitor your home remotely through a mobile app. Motion detection and two-way audio included."
+    },
+    {
+        "product_name": "ClaritySound Home Theater System",
+        "price": "$499.99",
+        "warranty": "5 years",
+        "refundable": "Yes",
+        "inventory": "30 units",
+        "dimensions": "18 x 15 x 10 inches (main unit)",
+        "reviews": "4.8 stars (900 reviews)",
+        "description": "A 5.1-channel home theater system with immersive surround sound and wireless rear speakers. The system supports Dolby Atmos for a cinematic experience and includes a powerful subwoofer for deep bass."
+    },
+    {
+        "product_name": "ComfortEase Ergonomic Chair",
+        "price": "$199.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "75 units",
+        "dimensions": "28 x 28 x 48 inches",
+        "reviews": "4.7 stars (2,100 reviews)",
+        "description": "An ergonomic office chair designed for maximum comfort with adjustable armrests, lumbar support, and a breathable mesh back. The chair features a tilt mechanism and a durable frame for long-lasting use."
+    },
+    {
+        "product_name": "ZenTherm Electric Blanket",
+        "price": "$89.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "150 units",
+        "dimensions": "80 x 60 inches",
+        "reviews": "4.6 stars (1,300 reviews)",
+        "description": "A cozy electric blanket with customizable temperature settings and an automatic shut-off feature. The blanket is made from ultra-soft microfiber and is machine washable for easy care."
+    },
+    {
+        "product_name": "SwiftClean Robot Vacuum",
+        "price": "$299.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "40 units",
+        "dimensions": "12 x 12 x 3 inches",
+        "reviews": "4.5 stars (1,500 reviews)",
+        "description": "A smart robot vacuum that automatically navigates around obstacles and returns to its charging dock when the battery is low. It has multiple cleaning modes and can be controlled via a mobile app."
+    },
+    {
+        "product_name": "UrbanFit Adjustable Dumbbells",
+        "price": "$149.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "60 units",
+        "dimensions": "15 x 8 x 8 inches",
+        "reviews": "4.7 stars (2,100 reviews)",
+        "description": "A set of adjustable dumbbells that can be easily changed from 5 to 50 pounds. The compact design saves space, and the ergonomic handles provide a comfortable grip during workouts."
+    },
+    {
+        "product_name": "BreezeMax Tower Fan",
+        "price": "$79.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "90 units",
+        "dimensions": "10 x 10 x 40 inches",
+        "reviews": "4.3 stars (1,200 reviews)",
+        "description": "A powerful tower fan with multiple speed settings and a remote control. The fan is designed to distribute air evenly throughout the room and features a slim, space-saving design."
+    },
+    {
+        "product_name": "FlexiCharge Power Bank",
+        "price": "$39.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "200 units",
+        "dimensions": "6 x 3 x 0.5 inches",
+        "reviews": "4.3 stars (1,000 reviews)",
+        "description": "A compact power bank with a 10,000mAh capacity, capable of charging most smartphones up to three times. It features dual USB ports and an LED indicator to show battery level."
+    },
+    {
+        "product_name": "AuraSense Smart Lamp",
+        "price": "$89.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "140 units",
+        "dimensions": "12 x 12 x 24 inches",
+        "reviews": "4.6 stars (850 reviews)",
+        "description": "A smart lamp with adjustable color temperature and brightness settings. It can be controlled via a mobile app or voice commands and includes a built-in speaker for music playback."
+    },
+    {
+        "product_name": "EcoBreeze Air Conditioner",
+        "price": "$549.99",
+        "warranty": "5 years",
+        "refundable": "Yes",
+        "inventory": "35 units",
+        "dimensions": "24 x 12 x 22 inches",
+        "reviews": "4.5 stars (600 reviews)",
+        "description": "A high-efficiency air conditioner with a cooling capacity of 12,000 BTU. It features an energy-saving mode and a remote control for convenient operation. Ideal for medium-sized rooms."
+    },
+    {
+        "product_name": "NovaCool Mini Fridge",
+        "price": "$159.99",
+        "warranty": "2 years",
+        "refundable": "No",
+        "inventory": "80 units",
+        "dimensions": "18 x 18 x 19 inches",
+        "reviews": "4.4 stars (1,200 reviews)",
+        "description": "A compact mini fridge with a 3.2 cubic feet capacity. It features a reversible door, adjustable shelves, and a built-in freezer compartment for added convenience."
+    },
+    {
+        "product_name": "SereneSleep Adjustable Bed Frame",
+        "price": "$699.99",
+        "warranty": "10 years",
+        "refundable": "No",
+        "inventory": "15 units",
+        "dimensions": "80 x 60 x 14 inches",
+        "reviews": "4.7 stars (900 reviews)",
+        "description": "An adjustable bed frame with electric controls to raise and lower the head and foot sections. It includes a wireless remote and is compatible with most mattress types."
+    },
+    {
+        "product_name": "SoundWave Noise-Canceling Headphones",
+        "price": "$229.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "110 units",
+        "dimensions": "8 x 7 x 4 inches",
+        "reviews": "4.8 stars (1,500 reviews)",
+        "description": "Over-ear headphones with active noise-canceling technology and up to 30 hours of battery life. Features include Bluetooth connectivity, a built-in microphone, and plush ear cushions for comfort."
+    },
+    {
+        "product_name": "StellarFit Yoga Mat",
+        "price": "$39.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "300 units",
+        "dimensions": "72 x 24 x 0.25 inches",
+        "reviews": "4.4 stars (2,000 reviews)",
+        "description": "A high-density yoga mat with non-slip texture and extra cushioning. It's made from eco-friendly materials and includes a carrying strap for easy transport to classes or the gym."
+    },
+    {
+        "product_name": "OptiView 24-Inch Monitor",
+        "price": "$229.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "60 units",
+        "dimensions": "22 x 14 x 6 inches",
+        "reviews": "4.5 stars (1,800 reviews)",
+        "description": "A 24-inch monitor with Full HD resolution and an ultra-thin bezel. Features include multiple connectivity options, including HDMI and VGA, and a blue light filter to reduce eye strain."
+    },
+    {
+        "product_name": "HarmonyDesk Standing Desk",
+        "price": "$349.99",
+        "warranty": "5 years",
+        "refundable": "Yes",
+        "inventory": "25 units",
+        "dimensions": "48 x 24 x 28-48 inches",
+        "reviews": "4.6 stars (700 reviews)",
+        "description": "An adjustable standing desk with an electric lift system. The desk features programmable height settings, a sturdy frame, and a spacious work surface suitable for dual monitor setups."
+    },
+    {
+        "product_name": "ProClean Handheld Vacuum",
+        "price": "$119.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "90 units",
+        "dimensions": "14 x 6 x 7 inches",
+        "reviews": "4.4 stars (1,100 reviews)",
+        "description": "A lightweight handheld vacuum with a powerful suction and multiple attachments for various cleaning tasks. Includes a rechargeable battery with up to 40 minutes of run time."
+    },
+    {
+        "product_name": "PureStream Bluetooth Speaker",
+        "price": "$79.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "95 units",
+        "dimensions": "8 x 3 x 3 inches",
+        "reviews": "4.4 stars (2,700 reviews)",
+        "description": "A portable Bluetooth speaker with 360-degree sound and up to 12 hours of playtime. The speaker is water-resistant, making it perfect for outdoor use, and comes with a built-in microphone for hands-free calls."
+    },
+    {
+        "product_name": "EcoBreeze Ceiling Fan",
+        "price": "$129.99",
+        "warranty": "5 years",
+        "refundable": "Yes",
+        "inventory": "120 units",
+        "dimensions": "52 x 52 x 15 inches",
+        "reviews": "4.5 stars (900 reviews)",
+        "description": "A modern ceiling fan with energy-efficient LED lights and three-speed settings. The fan includes a remote control and is easy to install, making it a perfect addition to any room."
+    },
+    {
+        "product_name": "LuxComfort Memory Foam Pillow",
+        "price": "$59.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "180 units",
+        "dimensions": "24 x 16 x 5 inches",
+        "reviews": "4.5 stars (1,500 reviews)",
+        "description": "A memory foam pillow with cooling gel technology, designed to provide optimal neck and head support. The breathable cover is hypoallergenic and machine washable for easy care."
+    },
+    {
+        "product_name": "OrbitView Smart Security Camera",
+        "price": "$149.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "50 units",
+        "dimensions": "5 x 5 x 5 inches",
+        "reviews": "4.6 stars (2,300 reviews)",
+        "description": "A smart security camera with 360-degree rotation and night vision. The camera connects to your home Wi-Fi and allows you to monitor your home remotely through a mobile app. Motion detection and two-way audio included."
+    },
+    {
+        "product_name": "ClaritySound Home Theater System",
+        "price": "$499.99",
+        "warranty": "5 years",
+        "refundable": "Yes",
+        "inventory": "30 units",
+        "dimensions": "18 x 15 x 10 inches (main unit)",
+        "reviews": "4.8 stars (900 reviews)",
+        "description": "A 5.1-channel home theater system with immersive surround sound and wireless rear speakers. The system supports Dolby Atmos for a cinematic experience and includes a powerful subwoofer for deep bass."
+    },
+    {
+        "product_name": "ComfortEase Ergonomic Chair",
+        "price": "$199.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "75 units",
+        "dimensions": "28 x 28 x 48 inches",
+        "reviews": "4.7 stars (2,100 reviews)",
+        "description": "An ergonomic office chair designed for maximum comfort with adjustable armrests, lumbar support, and a breathable mesh back. The chair features a tilt mechanism and a durable frame for long-lasting use."
+    },
+    {
+        "product_name": "ZenTherm Electric Blanket",
+        "price": "$89.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "150 units",
+        "dimensions": "80 x 60 inches",
+        "reviews": "4.6 stars (1,300 reviews)",
+        "description": "A cozy electric blanket with customizable temperature settings and an automatic shut-off feature. The blanket is made from ultra-soft microfiber and is machine washable for easy care."
+    },
+    {
+        "product_name": "SwiftClean Robot Vacuum",
+        "price": "$299.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "40 units",
+        "dimensions": "12 x 12 x 3 inches",
+        "reviews": "4.5 stars (1,500 reviews)",
+        "description": "A smart robot vacuum that automatically navigates around obstacles and returns to its charging dock when the battery is low. It has multiple cleaning modes and can be controlled via a mobile app."
+    },
+    {
+        "product_name": "UrbanFit Adjustable Dumbbells",
+        "price": "$149.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "60 units",
+        "dimensions": "15 x 8 x 8 inches",
+        "reviews": "4.7 stars (2,100 reviews)",
+        "description": "A set of adjustable dumbbells that can be easily changed from 5 to 50 pounds. The compact design saves space, and the ergonomic handles provide a comfortable grip during workouts."
+    },
+    {
+        "product_name": "BreezeMax Tower Fan",
+        "price": "$79.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "90 units",
+        "dimensions": "10 x 10 x 40 inches",
+        "reviews": "4.3 stars (1,200 reviews)",
+        "description": "A powerful tower fan with multiple speed settings and a remote control. The fan is designed to distribute air evenly throughout the room and features a slim, space-saving design."
+    },
+    {
+        "product_name": "UltraBright LED Desk Lamp",
+        "price": "$74.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "120 units",
+        "dimensions": "15 x 7 x 20 inches",
+        "reviews": "4.5 stars (800 reviews)",
+        "description": "A desk lamp with adjustable brightness and color temperature settings. It features a touch-sensitive control panel and a built-in USB port for charging devices."
+    },
+    {
+        "product_name": "PeakPerformance Elliptical Trainer",
+        "price": "$799.99",
+        "warranty": "3 years",
+        "refundable": "No",
+        "inventory": "30 units",
+        "dimensions": "60 x 24 x 65 inches",
+        "reviews": "4.7 stars (400 reviews)",
+        "description": "An elliptical trainer with 16 resistance levels and an LCD display that tracks workout metrics. It features a heart rate monitor and adjustable handlebars for a customized workout experience."
+    },
+    {
+        "product_name": "GigaSound Bluetooth Speaker",
+        "price": "$89.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "70 units",
+        "dimensions": "8 x 3 x 4 inches",
+        "reviews": "4.6 stars (950 reviews)",
+        "description": "A portable Bluetooth speaker with high-quality sound and a rugged design. It features a built-in microphone for hands-free calls and has a battery life of up to 12 hours."
+    },
+    {
+        "product_name": "NexGen 4K TV",
+        "price": "$1,299.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "25 units",
+        "dimensions": "55 x 32 x 3 inches",
+        "reviews": "4.8 stars (500 reviews)",
+        "description": "A 4K Ultra HD television with smart features, including built-in streaming apps and voice control. It offers high dynamic range (HDR) and has multiple HDMI and USB ports."
+    },
+    {
+        "product_name": "Zenith Reclining Sofa",
+        "price": "$899.99",
+        "warranty": "5 years",
+        "refundable": "Yes",
+        "inventory": "35 units",
+        "dimensions": "78 x 35 x 38 inches",
+        "reviews": "4.6 stars (600 reviews)",
+        "description": "A reclining sofa with plush cushions and a sturdy frame. It includes manual reclining mechanisms and is upholstered in high-quality leather for added comfort and durability."
+    },
+    {
+        "product_name": "HomeChef Air Fryer",
+        "price": "$149.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "85 units",
+        "dimensions": "12 x 12 x 14 inches",
+        "reviews": "4.5 stars (1,200 reviews)",
+        "description": "An air fryer with a 3.5-liter capacity and multiple cooking presets. It features a digital touchscreen control panel and a removable basket for easy cleaning."
+    },
+    {
+        "product_name": "EcoCool Portable Fan",
+        "price": "$39.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "150 units",
+        "dimensions": "7 x 7 x 8 inches",
+        "reviews": "4.4 stars (1,000 reviews)",
+        "description": "A compact portable fan with three speed settings and a rechargeable battery. It includes a built-in LED light and a foldable design for easy storage and transport."
+    },
+    {
+        "product_name": "TrueBlend Blender",
+        "price": "$119.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "95 units",
+        "dimensions": "9 x 8 x 14 inches",
+        "reviews": "4.5 stars (850 reviews)",
+        "description": "A high-power blender with a 1.5-liter capacity jar and multiple speed settings. It features stainless steel blades for efficient blending and a pulse function for controlled blending."
+    },
+    {
+        "product_name": "UrbanCharge USB Wall Adapter",
+        "price": "$24.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "300 units",
+        "dimensions": "2 x 2 x 1 inches",
+        "reviews": "4.6 stars (1,500 reviews)",
+        "description": "A USB wall adapter with dual ports for simultaneous device charging. It supports fast charging and is compatible with most smartphones and tablets."
+    },
+    {
+        "product_name": "DeluxeOffice Ergonomic Chair",
+        "price": "$359.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "50 units",
+        "dimensions": "25 x 25 x 45 inches",
+        "reviews": "4.7 stars (400 reviews)",
+        "description": "An ergonomic office chair with adjustable lumbar support and armrests. It features a high-back design and a reclining function for added comfort during long work sessions."
+    },
+    {
+        "product_name": "QuickBake Toaster Oven",
+        "price": "$89.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "80 units",
+        "dimensions": "16 x 12 x 10 inches",
+        "reviews": "4.4 stars (1,200 reviews)",
+        "description": "A versatile toaster oven with multiple cooking functions including baking, broiling, and toasting. It features a 60-minute timer and a removable crumb tray for easy cleaning."
+    },
+    {
+        "product_name": "MaxCharge Power Bank",
+        "price": "$39.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "200 units",
+        "dimensions": "5 x 2.5 x 0.5 inches",
+        "reviews": "4.7 stars (900 reviews)",
+        "description": "A compact power bank with a 10,000mAh capacity and fast charging capabilities. It includes two USB ports for charging multiple devices simultaneously."
+    },
+    {
+        "product_name": "LuxStyle Leather Jacket",
+        "price": "$199.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "60 units",
+        "dimensions": "Available in S, M, L, XL",
+        "reviews": "4.5 stars (300 reviews)",
+        "description": "A high-quality leather jacket designed for style and durability. It features multiple pockets and a zip closure, available in various sizes to fit different body types."
+    },
+    {
+        "product_name": "VistaFlex Monitor Stand",
+        "price": "$29.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "150 units",
+        "dimensions": "12 x 8 x 4 inches",
+        "reviews": "4.3 stars (1,000 reviews)",
+        "description": "An adjustable monitor stand that helps improve ergonomics by elevating the monitor to eye level. It includes built-in storage compartments for office supplies."
+    },
+    {
+        "product_name": "AeroFresh Air Purifier",
+        "price": "$179.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "90 units",
+        "dimensions": "12 x 12 x 18 inches",
+        "reviews": "4.6 stars (750 reviews)",
+        "description": "An air purifier with a multi-stage filtration system, including HEPA and activated carbon filters. It features a digital display and a filter replacement indicator."
+    },
+    {
+        "product_name": "ProBlend Kitchen Mixer",
+        "price": "$229.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "45 units",
+        "dimensions": "10 x 8 x 14 inches",
+        "reviews": "4.8 stars (600 reviews)",
+        "description": "A high-performance kitchen mixer with a 6-speed setting and a 5-quart mixing bowl. It includes various attachments for mixing, kneading, and whipping."
+    },
+    {
+        "product_name": "EcoBreeze Ceiling Fan",
+        "price": "$149.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "70 units",
+        "dimensions": "52 inches (blade span)",
+        "reviews": "4.5 stars (850 reviews)",
+        "description": "A ceiling fan with a modern design and three speed settings. It features reversible blades for year-round use and a remote control for convenience."
+    },
+    {
+        "product_name": "SmartTherm Digital Thermometer",
+        "price": "$24.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "300 units",
+        "dimensions": "6 x 1 x 0.5 inches",
+        "reviews": "4.4 stars (1,100 reviews)",
+        "description": "A digital thermometer with quick and accurate readings. It features a large LCD display and a flexible probe for easy measurement of body temperature."
+    },
+    {
+        "product_name": "ComfortZone Ergonomic Chair",
+        "price": "$299.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "55 units",
+        "dimensions": "24 x 24 x 48 inches",
+        "reviews": "4.7 stars (500 reviews)",
+        "description": "An ergonomic chair with adjustable lumbar support and armrests. It features a reclining function and a high-back design for added comfort during long work hours."
+    },
+    {
+        "product_name": "ProHeat Steam Cleaner",
+        "price": "$139.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "65 units",
+        "dimensions": "10 x 10 x 16 inches",
+        "reviews": "4.6 stars (700 reviews)",
+        "description": "A steam cleaner with a powerful heating element and multiple attachments for various surfaces. It includes a 20-foot power cord and a large water tank for extended cleaning sessions."
+    },
+    {
+        "product_name": "PowerPlus Drill Set",
+        "price": "$129.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "70 units",
+        "dimensions": "10 x 8 x 4 inches",
+        "reviews": "4.5 stars (650 reviews)",
+        "description": "A versatile drill set with multiple drill bits and a powerful motor. It includes a rechargeable battery and a carrying case for convenience."
+    },
+    {
+        "product_name": "UltraClean Vacuum Cleaner",
+        "price": "$249.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "50 units",
+        "dimensions": "15 x 10 x 20 inches",
+        "reviews": "4.6 stars (800 reviews)",
+        "description": "A high-efficiency vacuum cleaner with a HEPA filter and a large dustbin. It features adjustable suction power and a range of attachments for various cleaning tasks."
+    },
+    {
+        "product_name": "Harmony Recliner",
+        "price": "$379.99",
+        "warranty": "5 years",
+        "refundable": "Yes",
+        "inventory": "40 units",
+        "dimensions": "30 x 32 x 40 inches",
+        "reviews": "4.7 stars (300 reviews)",
+        "description": "A comfortable recliner with plush cushioning and a smooth reclining mechanism. It features a built-in footrest and a durable frame designed for long-lasting use."
+    },
+    {
+        "product_name": "FusionSmart Fitness Tracker",
+        "price": "$99.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "150 units",
+        "dimensions": "1 x 1 x 0.5 inches",
+        "reviews": "4.4 stars (1,000 reviews)",
+        "description": "A sleek fitness tracker with heart rate monitoring, sleep tracking, and step counting. It includes a customizable watch face and is water-resistant for daily wear."
+    },
+    {
+        "product_name": "EcoChill Mini Fridge",
+        "price": "$149.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "60 units",
+        "dimensions": "18 x 18 x 24 inches",
+        "reviews": "4.3 stars (550 reviews)",
+        "description": "A compact mini fridge with adjustable shelving and a reversible door. It features an energy-efficient cooling system and is suitable for small spaces."
+    },
+    {
+        "product_name": "ProSound Home Theater System",
+        "price": "$499.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "45 units",
+        "dimensions": "24 x 16 x 12 inches",
+        "reviews": "4.8 stars (400 reviews)",
+        "description": "A complete home theater system with surround sound speakers and a subwoofer. It includes HDMI and optical connections and supports high-definition audio formats."
+    },
+    {
+        "product_name": "EliteComfort Adjustable Bed",
+        "price": "$1,299.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "20 units",
+        "dimensions": "80 x 60 x 20 inches",
+        "reviews": "4.7 stars (300 reviews)",
+        "description": "An adjustable bed with customizable head and foot positions. It features a wireless remote control and a sturdy frame for optimal support and comfort."
+    },
+    {
+        "product_name": "SmartCook Induction Stove",
+        "price": "$199.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "80 units",
+        "dimensions": "12 x 12 x 3 inches",
+        "reviews": "4.5 stars (700 reviews)",
+        "description": "An induction stove with multiple heat settings and a digital control panel. It features a compact design and is compatible with most induction cookware."
+    },
+    {
+        "product_name": "AeroBreeze Ceiling Fan",
+        "price": "$169.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "65 units",
+        "dimensions": "52 inches (blade span)",
+        "reviews": "4.6 stars (750 reviews)",
+        "description": "A ceiling fan with modern design and energy-efficient blades. It features three speed settings and a remote control for convenience."
+    },
+    {
+        "product_name": "TechMate Wireless Charger",
+        "price": "$34.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "250 units",
+        "dimensions": "5 x 5 x 0.5 inches",
+        "reviews": "4.5 stars (1,200 reviews)",
+        "description": "A sleek wireless charger with fast charging capabilities. It includes an LED indicator and is compatible with most Qi-enabled devices."
+    },
+    {
+        "product_name": "ZenAir Air Purifier",
+        "price": "$129.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "90 units",
+        "dimensions": "14 x 14 x 20 inches",
+        "reviews": "4.4 stars (850 reviews)",
+        "description": "An air purifier featuring a HEPA filter and activated carbon layer. It includes a user-friendly control panel and a night mode for quiet operation."
+    },
+    {
+        "product_name": "UrbanFlex Laptop Bag",
+        "price": "$69.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "150 units",
+        "dimensions": "17 x 12 x 5 inches",
+        "reviews": "4.3 stars (1,000 reviews)",
+        "description": "A stylish laptop bag with multiple compartments and padded protection for your device. It features an adjustable shoulder strap and a durable water-resistant fabric."
+    },
+    {
+        "product_name": "SmartSleep Memory Foam Pillow",
+        "price": "$89.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "120 units",
+        "dimensions": "24 x 16 x 4 inches",
+        "reviews": "4.6 stars (500 reviews)",
+        "description": "A memory foam pillow designed for optimal support and comfort. It features a cooling gel layer and a breathable cover to enhance sleep quality."
+    },
+    {
+        "product_name": "ClassicBlend Coffee Maker",
+        "price": "$89.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "140 units",
+        "dimensions": "12 x 8 x 12 inches",
+        "reviews": "4.5 stars (900 reviews)",
+        "description": "A coffee maker with a 12-cup capacity and programmable timer. It includes a reusable filter and a keep-warm function to maintain the temperature of brewed coffee."
+    },
+    {
+        "product_name": "ProTech Wireless Earbuds",
+        "price": "$119.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "180 units",
+        "dimensions": "2 x 2 x 1 inches",
+        "reviews": "4.7 stars (650 reviews)",
+        "description": "Wireless earbuds with noise-cancellation technology and a built-in microphone. They come with a charging case and offer up to 20 hours of playback time."
+    },
+    {
+        "product_name": "EcoSmart Desk Lamp",
+        "price": "$49.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "200 units",
+        "dimensions": "15 x 6 x 20 inches",
+        "reviews": "4.4 stars (950 reviews)",
+        "description": "A desk lamp with adjustable brightness levels and a built-in USB charging port. It features a flexible neck and a modern design to complement any workspace."
+    },
+    {
+        "product_name": "FlexiDesk Adjustable Standing Desk",
+        "price": "$399.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "35 units",
+        "dimensions": "48 x 24 x 30 inches",
+        "reviews": "4.8 stars (300 reviews)",
+        "description": "An adjustable standing desk with electronic height control. It features a sturdy frame and a spacious work surface suitable for dual monitors."
+    },
+    {
+        "product_name": "PowerPro Surge Protector",
+        "price": "$24.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "300 units",
+        "dimensions": "10 x 3 x 1.5 inches",
+        "reviews": "4.6 stars (1,200 reviews)",
+        "description": "A surge protector with 8 outlets and built-in over-voltage protection. It features a compact design and a 6-foot power cord for flexibility."
+    },
+    {
+        "product_name": "LuxeRelax Massage Chair",
+        "price": "$1,299.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "25 units",
+        "dimensions": "32 x 28 x 46 inches",
+        "reviews": "4.7 stars (400 reviews)",
+        "description": "A premium massage chair with multiple massage modes and adjustable intensity. It features a heated back and leg rest, and a built-in Bluetooth speaker."
+    },
+    {
+        "product_name": "EcoFit Yoga Mat",
+        "price": "$34.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "250 units",
+        "dimensions": "72 x 24 x 0.5 inches",
+        "reviews": "4.5 stars (1,100 reviews)",
+        "description": "A non-slip yoga mat made from eco-friendly materials. It offers extra cushioning and durability for various yoga and fitness routines."
+    },
+    {
+        "product_name": "NovaPro Bluetooth Speaker",
+        "price": "$89.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "200 units",
+        "dimensions": "6 x 6 x 4 inches",
+        "reviews": "4.5 stars (750 reviews)",
+        "description": "A compact Bluetooth speaker with high-quality sound and a long battery life. It features a built-in microphone and supports hands-free calling."
+    },
+    {
+        "product_name": "SleekLine Office Chair",
+        "price": "$179.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "90 units",
+        "dimensions": "25 x 22 x 35 inches",
+        "reviews": "4.4 stars (500 reviews)",
+        "description": "An ergonomic office chair with adjustable height and lumbar support. It features a breathable mesh back and a swivel base for ease of movement."
+    },
+    {
+        "product_name": "SwiftCharge Power Bank",
+        "price": "$59.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "150 units",
+        "dimensions": "5 x 2.5 x 0.5 inches",
+        "reviews": "4.6 stars (1,100 reviews)",
+        "description": "A high-capacity power bank with fast charging capabilities and multiple output ports. It features an LED indicator and is compact enough for travel."
+    },
+    {
+        "product_name": "VeriDesk Sit-Stand Desk Converter",
+        "price": "$299.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "40 units",
+        "dimensions": "30 x 20 x 5 inches",
+        "reviews": "4.7 stars (350 reviews)",
+        "description": "A desk converter that allows you to switch between sitting and standing positions. It features easy height adjustment and a large work surface."
+    },
+    {
+        "product_name": "EcoTherm Space Heater",
+        "price": "$89.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "110 units",
+        "dimensions": "12 x 8 x 16 inches",
+        "reviews": "4.3 stars (650 reviews)",
+        "description": "A space heater with adjustable thermostat and overheat protection. It features a compact design and energy-efficient heating elements."
+    },
+    {
+        "product_name": "PureComfort Mattress",
+        "price": "$699.99",
+        "warranty": "10 years",
+        "refundable": "Yes",
+        "inventory": "30 units",
+        "dimensions": "80 x 60 x 12 inches",
+        "reviews": "4.8 stars (200 reviews)",
+        "description": "A premium mattress with memory foam and cooling gel layers. It provides excellent support and comfort, with a durable cover and hypoallergenic materials."
+    },
+    {
+        "product_name": "TurboCook Air Fryer",
+        "price": "$149.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "80 units",
+        "dimensions": "11 x 11 x 12 inches",
+        "reviews": "4.6 stars (800 reviews)",
+        "description": "An air fryer with adjustable temperature settings and a large capacity basket. It features a digital control panel and rapid air circulation for healthier cooking."
+    },
+    {
+        "product_name": "FitPro Smartwatch",
+        "price": "$199.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "120 units",
+        "dimensions": "1.5 x 1.5 x 0.5 inches",
+        "reviews": "4.7 stars (600 reviews)",
+        "description": "A smart watch with fitness tracking, heart rate monitoring, and GPS functionality. It includes a customizable watch face and water resistance for everyday use."
+    },
+    {
+        "product_name": "ModernEase Dining Table",
+        "price": "$499.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "25 units",
+        "dimensions": "60 x 36 x 30 inches",
+        "reviews": "4.5 stars (400 reviews)",
+        "description": "A contemporary dining table made from solid wood with a sleek finish. It features a spacious top and sturdy legs, designed to complement any dining room decor."
+    },
+    {
+        "product_name": "BreezeCool Portable Air Conditioner",
+        "price": "$349.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "45 units",
+        "dimensions": "24 x 16 x 14 inches",
+        "reviews": "4.4 stars (550 reviews)",
+        "description": "A portable air conditioner with multiple cooling modes and a remote control. It includes a washable filter and a programmable timer for convenience."
+    },
+    {
+        "product_name": "MaxCool Mini Fridge",
+        "price": "$129.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "60 units",
+        "dimensions": "18 x 18 x 22 inches",
+        "reviews": "4.2 stars (400 reviews)",
+        "description": "A compact mini fridge with adjustable shelves and a reversible door. It features an energy-efficient cooling system and a built-in freezer compartment."
+    },
+    {
+        "product_name": "ErgoFlex Office Chair",
+        "price": "$239.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "75 units",
+        "dimensions": "24 x 24 x 38 inches",
+        "reviews": "4.6 stars (600 reviews)",
+        "description": "An ergonomic office chair with adjustable lumbar support and armrests. It includes a tilt mechanism and a breathable mesh back for added comfort."
+    },
+    {
+        "product_name": "UltraClear 4K Monitor",
+        "price": "$349.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "120 units",
+        "dimensions": "27 x 16 x 6 inches",
+        "reviews": "4.7 stars (800 reviews)",
+        "description": "A 4K monitor with ultra-high-definition resolution and multiple connectivity options. It features an adjustable stand and anti-glare screen for improved visibility."
+    },
+    {
+        "product_name": "CozyNest Electric Blanket",
+        "price": "$89.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "100 units",
+        "dimensions": "60 x 80 inches",
+        "reviews": "4.5 stars (550 reviews)",
+        "description": "An electric blanket with adjustable heat settings and a soft fleece material. It includes a detachable controller and is machine washable for easy care."
+    },
+    {
+        "product_name": "ProGear Gaming Chair",
+        "price": "$279.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "45 units",
+        "dimensions": "25 x 25 x 50 inches",
+        "reviews": "4.8 stars (300 reviews)",
+        "description": "A high-end gaming chair with adjustable reclining and armrests. It features a built-in lumbar support and a durable leather cover for extended gaming sessions."
+    },
+    {
+        "product_name": "SmartBreeze Ceiling Fan",
+        "price": "$149.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "80 units",
+        "dimensions": "52 inches diameter",
+        "reviews": "4.4 stars (700 reviews)",
+        "description": "A ceiling fan with three speed settings and a modern design. It includes a remote control and an energy-efficient motor for quiet operation."
+    },
+    {
+        "product_name": "SoundWave Wireless Headphones",
+        "price": "$129.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "150 units",
+        "dimensions": "8 x 8 x 3 inches",
+        "reviews": "4.6 stars (900 reviews)",
+        "description": "Wireless headphones with noise-cancellation and up to 30 hours of battery life. They feature a comfortable over-ear design and intuitive touch controls."
+    },
+    {
+        "product_name": "PureSound Bluetooth Earbuds",
+        "price": "$79.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "200 units",
+        "dimensions": "1.2 x 1.2 x 0.6 inches",
+        "reviews": "4.5 stars (850 reviews)",
+        "description": "Bluetooth earbuds with a compact design and secure fit. They include a charging case and feature water resistance for active lifestyles."
+    },
+    {
+        "product_name": "MaxComfort Adjustable Bed Frame",
+        "price": "$499.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "35 units",
+        "dimensions": "80 x 60 x 10 inches",
+        "reviews": "4.7 stars (250 reviews)",
+        "description": "An adjustable bed frame with remote control and multiple incline settings. It includes a sturdy construction and easy assembly features."
+    },
+    {
+        "product_name": "EcoLite LED Desk Lamp",
+        "price": "$39.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "220 units",
+        "dimensions": "14 x 6 x 18 inches",
+        "reviews": "4.6 stars (950 reviews)",
+        "description": "A desk lamp with LED light and adjustable brightness. It features a modern design and a flexible neck to direct light where needed."
+    },
+    {
+        "product_name": "SwiftBrew Coffee Maker",
+        "price": "$109.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "120 units",
+        "dimensions": "14 x 10 x 14 inches",
+        "reviews": "4.3 stars (700 reviews)",
+        "description": "A coffee maker with a 12-cup capacity and programmable features. It includes a built-in timer and an automatic shut-off function."
+    },
+    {
+        "product_name": "FlexiFit Resistance Bands",
+        "price": "$24.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "300 units",
+        "dimensions": "7 x 7 x 1 inches",
+        "reviews": "4.5 stars (1,200 reviews)",
+        "description": "A set of resistance bands with varying levels of resistance. They come with a carrying bag and exercise guide for versatile workouts."
+    },
+    {
+        "product_name": "LuxAir Purifier",
+        "price": "$179.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "50 units",
+        "dimensions": "18 x 18 x 25 inches",
+        "reviews": "4.7 stars (350 reviews)",
+        "description": "An air purifier with a HEPA filter and multiple fan speeds. It includes a digital display and a filter replacement indicator."
+    },
+    {
+        "product_name": "PrimeScreen 24-Inch Monitor",
+        "price": "$219.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "85 units",
+        "dimensions": "24 x 15 x 8 inches",
+        "reviews": "4.4 stars (550 reviews)",
+        "description": "A 24-inch monitor with full HD resolution and multiple connectivity options. It features an adjustable stand and anti-glare technology."
+    },
+    {
+        "product_name": "SereneSleep Adjustable Pillow",
+        "price": "$69.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "160 units",
+        "dimensions": "20 x 14 x 5 inches",
+        "reviews": "4.6 stars (700 reviews)",
+        "description": "An adjustable pillow with memory foam and a breathable cover. It features customizable loft and firmness for personalized comfort."
+    },
+    {
+        "product_name": "FlexDesk Monitor Stand",
+        "price": "$49.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "150 units",
+        "dimensions": "12 x 10 x 4 inches",
+        "reviews": "4.5 stars (800 reviews)",
+        "description": "A monitor stand with adjustable height and a sleek design. It includes storage compartments for office supplies and a cable management system."
+    },
+    {
+        "product_name": "UrbanEco Backpack",
+        "price": "$89.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "200 units",
+        "dimensions": "18 x 12 x 6 inches",
+        "reviews": "4.7 stars (950 reviews)",
+        "description": "A stylish backpack with padded compartments and adjustable straps. It features a water-resistant material and multiple pockets for organization."
+    },
+    {
+        "product_name": "ComfortWave Bean Bag Chair",
+        "price": "$159.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "70 units",
+        "dimensions": "36 x 36 x 30 inches",
+        "reviews": "4.6 stars (500 reviews)",
+        "description": "A bean bag chair with a plush filling and a durable cover. It features a removable and washable cover for easy maintenance."
+    },
+    {
+        "product_name": "AuraSmart Thermostat",
+        "price": "$229.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "40 units",
+        "dimensions": "5 x 5 x 1 inches",
+        "reviews": "4.8 stars (300 reviews)",
+        "description": "A smart thermostat with Wi-Fi connectivity and programmable settings. It includes an intuitive touchscreen display and compatibility with smart home systems."
+    },
+    {
+        "product_name": "EcoFlow Water Bottle",
+        "price": "$19.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "500 units",
+        "dimensions": "8 x 3 x 3 inches",
+        "reviews": "4.4 stars (1,000 reviews)",
+        "description": "A durable water bottle with a leak-proof lid and an ergonomic design. It features a built-in filter and is made from BPA-free materials."
+    },
+    {
+        "product_name": "SkyView Telescope",
+        "price": "$399.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "20 units",
+        "dimensions": "24 x 18 x 40 inches",
+        "reviews": "4.9 stars (100 reviews)",
+        "description": "A high-powered telescope with adjustable focus and a wide-angle lens. It includes a sturdy tripod and a carrying case for portability."
+    },
+    {
+        "product_name": "QuickCook Induction Stove",
+        "price": "$259.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "90 units",
+        "dimensions": "12 x 12 x 3 inches",
+        "reviews": "4.6 stars (500 reviews)",
+        "description": "An induction stove with multiple heat settings and a sleek design. It features a touch control panel and is compatible with induction-ready cookware."
+    },
+    {
+        "product_name": "ZenVibe Yoga Mat",
+        "price": "$34.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "250 units",
+        "dimensions": "72 x 24 x 0.5 inches",
+        "reviews": "4.5 stars (1,100 reviews)",
+        "description": "A yoga mat with a non-slip surface and extra cushioning for comfort. It includes a carrying strap and is made from eco-friendly materials."
+    },
+    {
+        "product_name": "PureTone Wireless Speaker",
+        "price": "$99.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "150 units",
+        "dimensions": "5 x 5 x 6 inches",
+        "reviews": "4.4 stars (600 reviews)",
+        "description": "A portable wireless speaker with high-fidelity sound and up to 12 hours of battery life. It features Bluetooth connectivity and a compact design."
+    },
+    {
+        "product_name": "LuxPad Tablet",
+        "price": "$299.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "100 units",
+        "dimensions": "10 x 7 x 0.3 inches",
+        "reviews": "4.5 stars (450 reviews)",
+        "description": "A tablet with a high-resolution display and a powerful processor. It includes a stylus and supports various productivity and entertainment apps."
+    },
+    {
+        "product_name": "UltraClean Vacuum Cleaner",
+        "price": "$399.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "60 units",
+        "dimensions": "12 x 12 x 36 inches",
+        "reviews": "4.8 stars (300 reviews)",
+        "description": "A vacuum cleaner with advanced suction technology and multiple cleaning modes. It features a HEPA filter and comes with various attachments for different surfaces."
+    },
+    {
+        "product_name": "EliteFit Dumbbell Set",
+        "price": "$159.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "150 units",
+        "dimensions": "10 x 10 x 6 inches",
+        "reviews": "4.6 stars (700 reviews)",
+        "description": "A set of adjustable dumbbells with a range of weights. They come with a durable stand and feature a secure locking mechanism."
+    },
+    {
+        "product_name": "ComfyCouch Sofa",
+        "price": "$749.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "30 units",
+        "dimensions": "80 x 35 x 34 inches",
+        "reviews": "4.7 stars (200 reviews)",
+        "description": "A spacious sofa with plush cushions and a durable fabric. It features a modern design and is available in multiple colors."
+    },
+    {
+        "product_name": "FlexiClean Robot Vacuum",
+        "price": "$349.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "70 units",
+        "dimensions": "13 x 13 x 3 inches",
+        "reviews": "4.5 stars (400 reviews)",
+        "description": "A robot vacuum with smart navigation and multiple cleaning modes. It includes a charging dock and a high-efficiency filter."
+    },
+    {
+        "product_name": "OptiMax Fitness Tracker",
+        "price": "$89.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "300 units",
+        "dimensions": "1.5 x 1.5 x 0.5 inches",
+        "reviews": "4.4 stars (1,000 reviews)",
+        "description": "A fitness tracker with heart rate monitoring and step counting. It features a sleek design and syncs with a mobile app for detailed health insights."
+    },
+    {
+        "product_name": "EliteCook Kitchen Blender",
+        "price": "$179.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "80 units",
+        "dimensions": "12 x 8 x 8 inches",
+        "reviews": "4.6 stars (600 reviews)",
+        "description": "A kitchen blender with multiple speed settings and a powerful motor. It includes a glass pitcher and stainless steel blades for efficient blending."
+    },
+    {
+        "product_name": "LuxSleep Memory Foam Mattress",
+        "price": "$899.99",
+        "warranty": "10 years",
+        "refundable": "Yes",
+        "inventory": "25 units",
+        "dimensions": "60 x 80 x 12 inches",
+        "reviews": "4.8 stars (150 reviews)",
+        "description": "A memory foam mattress with excellent support and comfort. It features a hypoallergenic cover and is designed to reduce motion transfer."
+    },
+    {
+        "product_name": "RapidCharge Wireless Charger",
+        "price": "$39.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "400 units",
+        "dimensions": "6 x 6 x 0.5 inches",
+        "reviews": "4.5 stars (850 reviews)",
+        "description": "A wireless charger with fast charging capabilities and a sleek design. It includes overcharge protection and is compatible with various devices."
+    },
+    {
+        "product_name": "GlamGlow Makeup Mirror",
+        "price": "$49.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "200 units",
+        "dimensions": "15 x 12 x 8 inches",
+        "reviews": "4.4 stars (750 reviews)",
+        "description": "A makeup mirror with built-in LED lighting and adjustable angles. It features a magnification option and a sleek, modern design."
+    },
+    {
+        "product_name": "PrimeTech Wireless Keyboard",
+        "price": "$59.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "180 units",
+        "dimensions": "17 x 5 x 1 inches",
+        "reviews": "4.5 stars (500 reviews)",
+        "description": "A wireless keyboard with ergonomic design and responsive keys. It includes multimedia shortcuts and a long battery life."
+    },
+    {
+        "product_name": "SmartLight LED Bulbs",
+        "price": "$29.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "350 units",
+        "dimensions": "4 x 2 x 2 inches",
+        "reviews": "4.6 stars (950 reviews)",
+        "description": "A set of LED bulbs with adjustable brightness and color temperature. They are compatible with smart home systems and offer energy-efficient lighting."
+    },
+    {
+        "product_name": "HomeSafe Security Camera",
+        "price": "$149.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "90 units",
+        "dimensions": "6 x 6 x 4 inches",
+        "reviews": "4.5 stars (400 reviews)",
+        "description": "A security camera with night vision and motion detection features. It includes cloud storage options and remote access through a mobile app."
+    },
+    {
+        "product_name": "UltraBreeze Air Conditioner",
+        "price": "$499.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "40 units",
+        "dimensions": "24 x 16 x 14 inches",
+        "reviews": "4.7 stars (300 reviews)",
+        "description": "An air conditioner with adjustable cooling settings and a built-in dehumidifier. It features an energy-efficient design and a remote control."
+    },
+    {
+        "product_name": "QuickGrill Indoor Grill",
+        "price": "$119.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "100 units",
+        "dimensions": "12 x 12 x 5 inches",
+        "reviews": "4.4 stars (650 reviews)",
+        "description": "An indoor grill with adjustable temperature control and a non-stick surface. It includes a drip tray and is easy to clean."
+    },
+    {
+        "product_name": "ZenStyle Aromatherapy Diffuser",
+        "price": "$34.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "250 units",
+        "dimensions": "5 x 5 x 6 inches",
+        "reviews": "4.6 stars (900 reviews)",
+        "description": "An aromatherapy diffuser with adjustable mist settings and a sleek design. It includes LED lights and is made from BPA-free materials."
+    },
+    {
+        "product_name": "QuickFix Tool Set",
+        "price": "$89.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "150 units",
+        "dimensions": "15 x 10 x 4 inches",
+        "reviews": "4.5 stars (500 reviews)",
+        "description": "A tool set with various hand tools and a durable carrying case. It includes a set of wrenches, screwdrivers, and pliers for home repairs."
+    },
+    {
+        "product_name": "LuxMax Adjustable Desk",
+        "price": "$399.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "50 units",
+        "dimensions": "48 x 24 x 25 inches",
+        "reviews": "4.6 stars (200 reviews)",
+        "description": "An adjustable desk with electric height control and a modern design. It features a sturdy frame and a spacious work surface."
+    },
+    {
+        "product_name": "EcoBliss Showerhead",
+        "price": "$49.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "300 units",
+        "dimensions": "6 x 6 x 3 inches",
+        "reviews": "4.5 stars (600 reviews)",
+        "description": "A showerhead with multiple spray settings and a water-saving feature. It includes an easy-to-clean design and is compatible with most shower arms."
+    },
+    {
+        "product_name": "TechElite Gaming Monitor",
+        "price": "$599.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "40 units",
+        "dimensions": "27 x 15 x 8 inches",
+        "reviews": "4.9 stars (250 reviews)",
+        "description": "A high-resolution gaming monitor with a 144Hz refresh rate and built-in speakers. It includes adjustable height and tilt features."
+    },
+    {
+        "product_name": "UltraSafe Home Security Camera",
+        "price": "$199.99",
+        "warranty": "2 years",
+        "refundable": "No",
+        "inventory": "70 units",
+        "dimensions": "5 x 5 x 5 inches",
+        "reviews": "4.6 stars (300 reviews)",
+        "description": "A security camera with night vision and motion detection. It includes cloud storage for video recordings and can be accessed remotely via a mobile app."
+    },
+    {
+        "product_name": "StellarSound Bluetooth Earbuds",
+        "price": "$129.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "150 units",
+        "dimensions": "2 x 2 x 1 inches",
+        "reviews": "4.7 stars (400 reviews)",
+        "description": "Bluetooth earbuds with noise cancellation and up to 8 hours of battery life. They come with a charging case and multiple ear tip sizes."
+    },
+    {
+        "product_name": "PowerFlex Drill Set",
+        "price": "$349.99",
+        "warranty": "5 years",
+        "refundable": "Yes",
+        "inventory": "25 units",
+        "dimensions": "15 x 10 x 6 inches",
+        "reviews": "4.8 stars (150 reviews)",
+        "description": "A drill set with multiple drill bits and a powerful motor. It includes a carrying case and is suitable for both home and professional use."
+    },
+    {
+        "product_name": "Elegance Recliner Chair",
+        "price": "$899.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "30 units",
+        "dimensions": "35 x 35 x 40 inches",
+        "reviews": "4.5 stars (200 reviews)",
+        "description": "A recliner chair with plush cushioning and an adjustable reclining mechanism. It features a built-in massage function and a durable fabric cover."
+    },
+    {
+        "product_name": "SmartFit Treadmill",
+        "price": "$1,299.99",
+        "warranty": "2 years",
+        "refundable": "No",
+        "inventory": "20 units",
+        "dimensions": "70 x 30 x 55 inches",
+        "reviews": "4.7 stars (100 reviews)",
+        "description": "A treadmill with multiple workout programs and an integrated heart rate monitor. It includes a foldable design for easy storage and a large running surface."
+    },
+    {
+        "product_name": "ProChef Kitchen Knife Set",
+        "price": "$179.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "100 units",
+        "dimensions": "12 x 10 x 2 inches",
+        "reviews": "4.4 stars (600 reviews)",
+        "description": "A kitchen knife set with high-carbon stainless steel blades and ergonomic handles. It includes a sharpening steel and a wooden block for storage."
+    },
+    {
+        "product_name": "CouchMaster Sofa Protector",
+        "price": "$89.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "250 units",
+        "dimensions": "90 x 35 x 0.5 inches",
+        "reviews": "4.5 stars (700 reviews)",
+        "description": "A sofa protector with a waterproof and stain-resistant design. It features adjustable straps for a secure fit and is available in multiple colors."
+    },
+    {
+        "product_name": "HomeStyle Cookware Set",
+        "price": "$229.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "60 units",
+        "dimensions": "14 x 14 x 12 inches",
+        "reviews": "4.6 stars (300 reviews)",
+        "description": "A cookware set with non-stick coating and ergonomic handles. It includes various pots and pans and is suitable for all stovetops."
+    },
+    {
+        "product_name": "EcoSmart LED Bulbs",
+        "price": "$24.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "500 units",
+        "dimensions": "4 x 2 x 2 inches",
+        "reviews": "4.7 stars (800 reviews)",
+        "description": "A pack of LED bulbs with energy-saving technology and a long lifespan. They are compatible with most fixtures and offer warm white light."
+    },
+    {
+        "product_name": "GlamHome Vanity Mirror",
+        "price": "$149.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "200 units",
+        "dimensions": "20 x 15 x 4 inches",
+        "reviews": "4.6 stars (500 reviews)",
+        "description": "A vanity mirror with built-in LED lighting and a magnifying feature. It includes adjustable brightness settings and a sleek design."
+    },
+    {
+        "product_name": "Deluxe Comfort Air Mattress",
+        "price": "$129.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "90 units",
+        "dimensions": "78 x 60 x 18 inches",
+        "reviews": "4.5 stars (300 reviews)",
+        "description": "An air mattress with a built-in pump and adjustable firmness levels. It features a flocked surface and a durable construction."
+    },
+    {
+        "product_name": "ProTech Laptop Stand",
+        "price": "$59.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "150 units",
+        "dimensions": "12 x 9 x 6 inches",
+        "reviews": "4.4 stars (600 reviews)",
+        "description": "A laptop stand with adjustable angles and a cooling pad. It features a lightweight design and is made from durable aluminum."
+    },
+    {
+        "product_name": "PowerPro Surge Protector",
+        "price": "$39.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "200 units",
+        "dimensions": "10 x 4 x 2 inches",
+        "reviews": "4.3 stars (700 reviews)",
+        "description": "A surge protector with multiple outlets and built-in protection for electrical devices. It includes a 6-foot power cord and an overload indicator."
+    },
+    {
+        "product_name": "ClassicHome Dining Table",
+        "price": "$499.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "40 units",
+        "dimensions": "60 x 36 x 30 inches",
+        "reviews": "4.7 stars (100 reviews)",
+        "description": "A wooden dining table with a classic design and sturdy construction. It seats up to six people and includes an easy-to-clean surface."
+    },
+    {
+        "product_name": "QuickCharge Portable Charger",
+        "price": "$49.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "300 units",
+        "dimensions": "5 x 3 x 1 inches",
+        "reviews": "4.6 stars (500 reviews)",
+        "description": "A portable charger with fast-charging capabilities and a compact design. It includes a digital display for battery level and supports multiple devices."
+    },
+    {
+        "product_name": "EliteAir Air Purifier",
+        "price": "$289.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "30 units",
+        "dimensions": "18 x 18 x 30 inches",
+        "reviews": "4.8 stars (150 reviews)",
+        "description": "An air purifier with advanced filtration and a real-time air quality monitor. It includes a HEPA filter and is suitable for large rooms."
+    },
+    {
+        "product_name": "ProTech Home Theater System",
+        "price": "$1,299.99",
+        "warranty": "2 years",
+        "refundable": "No",
+        "inventory": "20 units",
+        "dimensions": "40 x 40 x 30 inches",
+        "reviews": "4.7 stars (100 reviews)",
+        "description": "A home theater system with surround sound and wireless connectivity. It includes a Blu-ray player and multiple speakers for an immersive experience."
+    },
+    {
+        "product_name": "CaféMaster Coffee Maker",
+        "price": "$89.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "150 units",
+        "dimensions": "12 x 10 x 14 inches",
+        "reviews": "4.6 stars (400 reviews)",
+        "description": "A coffee maker with programmable settings and a built-in grinder. It features a large water reservoir and comes with a reusable filter."
+    },
+    {
+        "product_name": "ComfortAir Ergonomic Chair",
+        "price": "$399.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "50 units",
+        "dimensions": "25 x 25 x 40 inches",
+        "reviews": "4.7 stars (200 reviews)",
+        "description": "An ergonomic office chair with adjustable lumbar support and armrests. It features a high backrest and a reclining function for maximum comfort."
+    },
+    {
+        "product_name": "MaxFlow Ceiling Fan",
+        "price": "$159.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "80 units",
+        "dimensions": "52 x 52 x 12 inches",
+        "reviews": "4.5 stars (250 reviews)",
+        "description": "A ceiling fan with a contemporary design and three-speed settings. It includes a remote control and is compatible with most ceiling mounts."
+    },
+    {
+        "product_name": "UltimateFit Exercise Bike",
+        "price": "$699.99",
+        "warranty": "2 years",
+        "refundable": "No",
+        "inventory": "25 units",
+        "dimensions": "50 x 25 x 45 inches",
+        "reviews": "4.6 stars (120 reviews)",
+        "description": "An exercise bike with adjustable resistance levels and a built-in monitor. It includes a heart rate sensor and a comfortable padded seat."
+    },
+    {
+        "product_name": "TechElite Gaming Monitor",
+        "price": "$599.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "40 units",
+        "dimensions": "27 x 15 x 8 inches",
+        "reviews": "4.9 stars (250 reviews)",
+        "description": "A high-resolution gaming monitor with a 144Hz refresh rate and built-in speakers. It includes adjustable height and tilt features."
+    },
+    {
+        "product_name": "UltraSafe Home Security Camera",
+        "price": "$199.99",
+        "warranty": "2 years",
+        "refundable": "No",
+        "inventory": "70 units",
+        "dimensions": "5 x 5 x 5 inches",
+        "reviews": "4.6 stars (300 reviews)",
+        "description": "A security camera with night vision and motion detection. It includes cloud storage for video recordings and can be accessed remotely via a mobile app."
+    },
+    {
+        "product_name": "StellarSound Bluetooth Earbuds",
+        "price": "$129.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "150 units",
+        "dimensions": "2 x 2 x 1 inches",
+        "reviews": "4.7 stars (400 reviews)",
+        "description": "Bluetooth earbuds with noise cancellation and up to 8 hours of battery life. They come with a charging case and multiple ear tip sizes."
+    },
+    {
+        "product_name": "PowerFlex Drill Set",
+        "price": "$349.99",
+        "warranty": "5 years",
+        "refundable": "Yes",
+        "inventory": "25 units",
+        "dimensions": "15 x 10 x 6 inches",
+        "reviews": "4.8 stars (150 reviews)",
+        "description": "A drill set with multiple drill bits and a powerful motor. It includes a carrying case and is suitable for both home and professional use."
+    },
+    {
+        "product_name": "Elegance Recliner Chair",
+        "price": "$899.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": "30 units",
+        "dimensions": "35 x 35 x 40 inches",
+        "reviews": "4.5 stars (200 reviews)",
+        "description": "A recliner chair with plush cushioning and an adjustable reclining mechanism. It features a built-in massage function and a durable fabric cover."
+    },
+    {
+        "product_name": "SmartFit Treadmill",
+        "price": "$1,299.99",
+        "warranty": "2 years",
+        "refundable": "No",
+        "inventory": "20 units",
+        "dimensions": "70 x 30 x 55 inches",
+        "reviews": "4.7 stars (100 reviews)",
+        "description": "A treadmill with multiple workout programs and an integrated heart rate monitor. It includes a foldable design for easy storage and a large running surface."
+    },
+    {
+        "product_name": "ProChef Kitchen Knife Set",
+        "price": "$179.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "100 units",
+        "dimensions": "12 x 10 x 2 inches",
+        "reviews": "4.4 stars (600 reviews)",
+        "description": "A kitchen knife set with high-carbon stainless steel blades and ergonomic handles. It includes a sharpening steel and a wooden block for storage."
+    },
+    {
+        "product_name": "CouchMaster Sofa Protector",
+        "price": "$89.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "250 units",
+        "dimensions": "90 x 35 x 0.5 inches",
+        "reviews": "4.5 stars (700 reviews)",
+        "description": "A sofa protector with a waterproof and stain-resistant design. It features adjustable straps for a secure fit and is available in multiple colors."
+    },
+    {
+        "product_name": "HomeStyle Cookware Set",
+        "price": "$229.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "60 units",
+        "dimensions": "14 x 14 x 12 inches",
+        "reviews": "4.6 stars (300 reviews)",
+        "description": "A cookware set with non-stick coating and ergonomic handles. It includes various pots and pans and is suitable for all stovetops."
+    },
+    {
+        "product_name": "EcoSmart LED Bulbs",
+        "price": "$24.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "500 units",
+        "dimensions": "4 x 2 x 2 inches",
+        "reviews": "4.7 stars (800 reviews)",
+        "description": "A pack of LED bulbs with energy-saving technology and a long lifespan. They are compatible with most fixtures and offer warm white light."
+    },
+    {
+        "product_name": "GlamHome Vanity Mirror",
+        "price": "$149.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "200 units",
+        "dimensions": "20 x 15 x 4 inches",
+        "reviews": "4.6 stars (500 reviews)",
+        "description": "A vanity mirror with built-in LED lighting and a magnifying feature. It includes adjustable brightness settings and a sleek design."
+    },
+    {
+        "product_name": "Deluxe Comfort Air Mattress",
+        "price": "$129.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "90 units",
+        "dimensions": "78 x 60 x 18 inches",
+        "reviews": "4.5 stars (300 reviews)",
+        "description": "An air mattress with a built-in pump and adjustable firmness levels. It features a flocked surface and a durable construction."
+    },
+    {
+        "product_name": "ProTech Laptop Stand",
+        "price": "$59.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "150 units",
+        "dimensions": "12 x 8 x 6 inches",
+        "reviews": "4.3 stars (350 reviews)",
+        "description": "A laptop stand with adjustable height and angle settings. It includes a cooling pad for effective heat dissipation and comes with a 1-year warranty."
+    },
+    {
+        "product_name": "PowerPro Surge Protector",
+        "price": "$39.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "200 units",
+        "dimensions": "10 x 4 x 2 inches",
+        "reviews": "4.3 stars (700 reviews)",
+        "description": "A surge protector with multiple outlets and built-in protection for electrical devices. It includes a 6-foot power cord and an overload indicator."
+    },
+    {
+        "product_name": "ClassicHome Dining Table",
+        "price": "$499.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": "45 units",
+        "dimensions": "60 x 36 x 30 inches",
+        "reviews": "4.5 stars (250 reviews)",
+        "description": "A spacious dining table made of solid wood with a classic design. It includes a polished finish and can comfortably seat six people."
+    },
+    {
+        "product_name": "ProTech Laptop Stand",
+        "price": "$59.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "150 units",
+        "dimensions": "12 x 8 x 6 inches",
+        "reviews": "4.3 stars (350 reviews)",
+        "description": "A laptop stand with adjustable height and angle settings. It includes a cooling pad for effective heat dissipation and comes with a 1-year warranty."
+    },
+    {
+        "product_name": "PowerPro Surge Protector",
+        "price": "$39.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "200 units",
+        "dimensions": "10 x 4 x 2 inches",
+        "reviews": "4.3 stars (700 reviews)",
+        "description": "A surge protector with multiple outlets and built-in protection for electrical devices. It includes a 6-foot power cord and an overload indicator."
+    },
+    {
+        "product_name": "ClassicHome Dining Table",
+        "price": "$499.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 14 days",
+        "inventory": "45 units",
+        "dimensions": "60 x 36 x 30 inches",
+        "reviews": "4.5 stars (250 reviews)",
+        "description": "A spacious dining table made of solid wood with a classic design. It includes a polished finish and can comfortably seat six people."
+    },
+    {
+        "product_name": "UltraSafe Home Security Camera",
+        "price": "$199.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 60 days",
+        "inventory": "70 units",
+        "dimensions": "5 x 5 x 5 inches",
+        "reviews": "4.6 stars (300 reviews)",
+        "description": "A security camera with night vision and motion detection. It includes cloud storage for video recordings and can be accessed remotely via a mobile app."
+    },
+    {
+        "product_name": "StellarSound Bluetooth Earbuds",
+        "price": "$129.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 15 days",
+        "inventory": "150 units",
+        "dimensions": "2 x 2 x 1 inches",
+        "reviews": "4.7 stars (400 reviews)",
+        "description": "Bluetooth earbuds with noise cancellation and up to 8 hours of battery life. They come with a charging case and multiple ear tip sizes."
+    },
+    {
+        "product_name": "PowerFlex Drill Set",
+        "price": "$349.99",
+        "warranty": "5 years",
+        "refundable": "Yes, but with a 20% restocking fee",
+        "inventory": "25 units",
+        "dimensions": "15 x 10 x 6 inches",
+        "reviews": "4.8 stars (150 reviews)",
+        "description": "A drill set with multiple drill bits and a powerful motor. It includes a carrying case and is suitable for both home and professional use."
+    },
+    {
+        "product_name": "Elegance Recliner Chair",
+        "price": "$899.99",
+        "warranty": "3 years",
+        "refundable": "refundable within 30 days with receipt",
+        "inventory": "30 units",
+        "dimensions": "35 x 35 x 40 inches",
+        "reviews": "4.5 stars (200 reviews)",
+        "description": "A recliner chair with plush cushioning and an adjustable reclining mechanism. It features a built-in massage function and a durable fabric cover."
+    },
+    {
+        "product_name": "SmartFit Treadmill",
+        "price": "$1,299.99",
+        "warranty": "2 years",
+        "refundable": "No",
+        "inventory": "20 units",
+        "dimensions": "70 x 30 x 55 inches",
+        "reviews": "4.7 stars (100 reviews)",
+        "description": "A treadmill with multiple workout programs and an integrated heart rate monitor. It includes a foldable design for easy storage and a large running surface."
+    },
+    {
+        "product_name": "ProChef Kitchen Knife Set",
+        "price": "$179.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days, no restocking fee",
+        "inventory": "100 units",
+        "dimensions": "12 x 10 x 2 inches",
+        "reviews": "4.4 stars (600 reviews)",
+        "description": "A kitchen knife set with high-carbon stainless steel blades and ergonomic handles. It includes a sharpening steel and a wooden block for storage."
+    },
+    {
+        "product_name": "CouchMaster Sofa Protector",
+        "price": "$89.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 45 days",
+        "inventory": "250 units",
+        "dimensions": "90 x 35 x 0.5 inches",
+        "reviews": "4.5 stars (700 reviews)",
+        "description": "A sofa protector with a waterproof and stain-resistant design. It features adjustable straps for a secure fit and is available in multiple colors."
+    },
+    {
+        "product_name": "HomeStyle Cookware Set",
+        "price": "$229.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 14 days, with a 10% restocking fee",
+        "inventory": "60 units",
+        "dimensions": "14 x 14 x 12 inches",
+        "reviews": "4.6 stars (300 reviews)",
+        "description": "A cookware set with non-stick coating and ergonomic handles. It includes various pots and pans and is suitable for all stovetops."
+    },
+    {
+        "product_name": "EcoSmart LED Bulbs",
+        "price": "$24.99",
+        "warranty": "1 year",
+        "refundable": "Yes, but only if unopened",
+        "inventory": "500 units",
+        "dimensions": "4 x 2 x 2 inches",
+        "reviews": "4.7 stars (800 reviews)",
+        "description": "A pack of LED bulbs with energy-saving technology and a long lifespan. They are compatible with most fixtures and offer warm white light."
+    },
+    {
+        "product_name": "GlamHome Vanity Mirror",
+        "price": "$149.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days, with original packaging",
+        "inventory": "200 units",
+        "dimensions": "20 x 15 x 4 inches",
+        "reviews": "4.6 stars (500 reviews)",
+        "description": "A vanity mirror with built-in LED lighting and a magnifying feature. It includes adjustable brightness settings and a sleek design."
+    },
+    {
+        "product_name": "Deluxe Comfort Air Mattress",
+        "price": "$129.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days with a 15% restocking fee",
+        "inventory": "90 units",
+        "dimensions": "78 x 60 x 18 inches",
+        "reviews": "4.5 stars (300 reviews)",
+        "description": "An air mattress with a built-in pump and adjustable firmness levels. It features a flocked surface and a durable construction."
+    },
+    {
+        "product_name": "ProTech Laptop Stand",
+        "price": "$59.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "150 units",
+        "dimensions": "12 x 8 x 6 inches",
+        "reviews": "4.3 stars (350 reviews)",
+        "description": "A laptop stand with adjustable height and angle settings. It includes a cooling pad for effective heat dissipation and comes with a 1-year warranty."
+    },
+    {
+        "product_name": "PowerPro Surge Protector",
+        "price": "$39.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": "200 units",
+        "dimensions": "10 x 4 x 2 inches",
+        "reviews": "4.3 stars (700 reviews)",
+        "description": "A surge protector with multiple outlets and built-in protection for electrical devices. It includes a 6-foot power cord and an overload indicator."
+    },
+    {
+        "product_name": "ClassicHome Dining Table",
+        "price": "$499.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 14 days",
+        "inventory": "45 units",
+        "dimensions": "60 x 36 x 30 inches",
+        "reviews": "4.5 stars (250 reviews)",
+        "description": "A spacious dining table made of solid wood with a classic design. It includes a polished finish and can comfortably seat six people."
+    },
+    {
+        "product_name": "UltraSafe Home Security Camera",
+        "price": "$199.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 60 days",
+        "inventory": "70 units",
+        "dimensions": "5 x 5 x 5 inches",
+        "reviews": "4.6 stars (300 reviews)",
+        "description": "A security camera with night vision and motion detection. It includes cloud storage for video recordings and can be accessed remotely via a mobile app."
+    },
+    {
+        "product_name": "StellarSound Bluetooth Earbuds",
+        "price": "$129.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 15 days",
+        "inventory": "150 units",
+        "dimensions": "2 x 2 x 1 inches",
+        "reviews": "4.7 stars (400 reviews)",
+        "description": "Bluetooth earbuds with noise cancellation and up to 8 hours of battery life. They come with a charging case and multiple ear tip sizes."
+    },
+    {
+        "product_name": "PowerFlex Drill Set",
+        "price": "$349.99",
+        "warranty": "5 years",
+        "refundable": "Yes, but with a 20% restocking fee",
+        "inventory": "25 units",
+        "dimensions": "15 x 10 x 6 inches",
+        "reviews": "4.8 stars (150 reviews)",
+        "description": "A drill set with multiple drill bits and a powerful motor. It includes a carrying case and is suitable for both home and professional use."
+    },
+    {
+        "product_name": "Elegance Recliner Chair",
+        "price": "$899.99",
+        "warranty": "3 years",
+        "refundable": "refundable within 30 days with receipt",
+        "inventory": "30 units",
+        "dimensions": "35 x 35 x 40 inches",
+        "reviews": "4.5 stars (200 reviews)",
+        "description": "A recliner chair with plush cushioning and an adjustable reclining mechanism. It features a built-in massage function and a durable fabric cover."
+    },
+    {
+        "product_name": "SmartFit Treadmill",
+        "price": "$1,299.99",
+        "warranty": "2 years",
+        "refundable": "No",
+        "inventory": "20 units",
+        "dimensions": "70 x 30 x 55 inches",
+        "reviews": "4.7 stars (100 reviews)",
+        "description": "A treadmill with multiple workout programs and an integrated heart rate monitor. It includes a foldable design for easy storage and a large running surface."
+    },
+    {
+        "product_name": "ProChef Kitchen Knife Set",
+        "price": "$179.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days, no restocking fee",
+        "inventory": "100 units",
+        "dimensions": "12 x 10 x 2 inches",
+        "reviews": "4.4 stars (600 reviews)",
+        "description": "A kitchen knife set with high-carbon stainless steel blades and ergonomic handles. It includes a sharpening steel and a wooden block for storage."
+    },
+    {
+        "product_name": "CouchMaster Sofa Protector",
+        "price": "$89.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 45 days",
+        "inventory": "250 units",
+        "dimensions": "90 x 35 x 0.5 inches",
+        "reviews": "4.5 stars (700 reviews)",
+        "description": "A sofa protector with a waterproof and stain-resistant design. It features adjustable straps for a secure fit and is available in multiple colors."
+    },
+    {
+        "product_name": "HomeStyle Cookware Set",
+        "price": "$229.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 14 days, with a 10% restocking fee",
+        "inventory": "60 units",
+        "dimensions": "14 x 14 x 12 inches",
+        "reviews": "4.6 stars (300 reviews)",
+        "description": "A cookware set with non-stick coating and ergonomic handles. It includes various pots and pans and is suitable for all stovetops."
+    },
+    {
+        "product_name": "EcoSmart LED Bulbs",
+        "price": "$24.99",
+        "warranty": "1 year",
+        "refundable": "Yes, but only if unopened",
+        "inventory": "500 units",
+        "dimensions": "4 x 2 x 2 inches",
+        "reviews": "4.7 stars (800 reviews)",
+        "description": "A pack of LED bulbs with energy-saving technology and a long lifespan. They are compatible with most fixtures and offer warm white light."
+    },
+    {
+        "product_name": "GlamHome Vanity Mirror",
+        "price": "$149.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days, with original packaging",
+        "inventory": "200 units",
+        "dimensions": "20 x 15 x 4 inches",
+        "reviews": "4.6 stars (500 reviews)",
+        "description": "A vanity mirror with built-in LED lighting and a magnifying feature. It includes adjustable brightness settings and a sleek design."
+    },
+    {
+        "product_name": "Deluxe Comfort Air Mattress",
+        "price": "$129.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days with a 15% restocking fee",
+        "inventory": "90 units",
+        "dimensions": "78 x 60 x 18 inches",
+        "reviews": "4.5 stars (300 reviews)",
+        "description": "An air mattress with a built-in pump and adjustable firmness levels. It features a flocked surface and a durable construction."
+    },
+    {
+        "product_name": "Compact Photo Printer",
+        "price": "$89.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "60 units",
+        "dimensions": "6 x 4 x 2 inches",
+        "reviews": "4.4 stars (250 reviews)",
+        "description": "A compact photo printer that produces high-quality prints from your smartphone or camera. It features wireless connectivity and easy-to-use controls."
+    },
+    {
+        "product_name": "Stylish Floor Lamp",
+        "price": "$79.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 45 days",
+        "inventory": "100 units",
+        "dimensions": "60 x 12 x 12 inches",
+        "reviews": "4.6 stars (500 reviews)",
+        "description": "A stylish floor lamp with an adjustable shade and dimmable lighting. It features a modern design and a sturdy base."
+    },
+    {
+        "product_name": "Multi-Function Air Fryer",
+        "price": "$199.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "80 units",
+        "dimensions": "14 x 12 x 12 inches",
+        "reviews": "4.7 stars (400 reviews)",
+        "description": "An air fryer with multiple cooking modes, including baking, grilling, and frying. It includes a digital display and adjustable temperature settings."
+    },
+    {
+        "product_name": "Outdoor Adventure Tent",
+        "price": "$249.99",
+        "warranty": "3 years",
+        "refundable": "refundable within 60 days",
+        "inventory": "40 units",
+        "dimensions": "10 x 10 x 8 feet",
+        "reviews": "4.8 stars (150 reviews)",
+        "description": "A durable tent designed for outdoor adventures with weather-resistant material and easy setup. It includes ventilation windows and a rainfly."
+    },
+    {
+        "product_name": "Essential Oils Diffuser",
+        "price": "$34.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "300 units",
+        "dimensions": "6 x 6 x 6 inches",
+        "reviews": "4.5 stars (600 reviews)",
+        "description": "An essential oils diffuser with multiple mist settings and LED lighting. It includes a water reservoir and automatic shut-off feature."
+    },
+    {
+        "product_name": "ComfortPlus Mattress Pad",
+        "price": "$89.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days, no restocking fee",
+        "inventory": "150 units",
+        "dimensions": "60 x 80 inches",
+        "reviews": "4.4 stars (350 reviews)",
+        "description": "A mattress pad with extra cushioning for added comfort. It features a quilted design and fits most standard mattress sizes."
+    },
+    {
+        "product_name": "HomeTech Smart Thermostat",
+        "price": "$149.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "75 units",
+        "dimensions": "4 x 4 x 1 inches",
+        "reviews": "4.6 stars (300 reviews)",
+        "description": "A smart thermostat that learns your temperature preferences and can be controlled via a mobile app. It includes energy-saving features and easy installation."
+    },
+    {
+        "product_name": "Ultimate Gaming Chair",
+        "price": "$399.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days with a 10% restocking fee",
+        "inventory": "50 units",
+        "dimensions": "30 x 30 x 50 inches",
+        "reviews": "4.7 stars (200 reviews)",
+        "description": "A gaming chair with ergonomic design and adjustable features. It includes built-in speakers and a reclining function for maximum comfort."
+    },
+    {
+        "product_name": "SpaceSaver Wardrobe",
+        "price": "$299.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days, with a 15% restocking fee",
+        "inventory": "25 units",
+        "dimensions": "40 x 20 x 60 inches",
+        "reviews": "4.5 stars (150 reviews)",
+        "description": "A wardrobe with ample storage space and adjustable shelves. It features a sleek design and easy assembly."
+    },
+    {
+        "product_name": "UltraQuiet Air Purifier",
+        "price": "$179.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "85 units",
+        "dimensions": "10 x 10 x 12 inches",
+        "reviews": "4.7 stars (250 reviews)",
+        "description": "An air purifier with HEPA filtration and a quiet operation. It includes a filter replacement indicator and a 3-speed fan."
+    },
+    {
+        "product_name": "Elegant Console Table",
+        "price": "$139.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 14 days",
+        "inventory": "40 units",
+        "dimensions": "45 x 15 x 30 inches",
+        "reviews": "4.4 stars (200 reviews)",
+        "description": "A console table with a modern design and sturdy construction. It features a minimalist look and is suitable for entryways or living rooms."
+    },
+    {
+        "product_name": "Deluxe Soundbar",
+        "price": "$299.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "100 units",
+        "dimensions": "35 x 4 x 4 inches",
+        "reviews": "4.8 stars (400 reviews)",
+        "description": "A soundbar with surround sound and Bluetooth connectivity. It includes a wireless subwoofer and multiple sound modes."
+    },
+    {
+        "product_name": "EcoSmart LED Desk Lamp",
+        "price": "$49.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "200 units",
+        "dimensions": "16 x 8 x 8 inches",
+        "reviews": "4.6 stars (600 reviews)",
+        "description": "A desk lamp with adjustable brightness and a sleek, modern design. It features an LED light source and touch-sensitive controls."
+    },
+    {
+        "product_name": "VersaTable Adjustable Desk",
+        "price": "$399.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days with original packaging",
+        "inventory": "30 units",
+        "dimensions": "48 x 24 x 28 inches",
+        "reviews": "4.5 stars (250 reviews)",
+        "description": "An adjustable desk with an ergonomic design and programmable height settings. It features a spacious work surface and sturdy construction."
+    },
+    {
+        "product_name": "Luxury Memory Foam Pillow",
+        "price": "$79.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "300 units",
+        "dimensions": "24 x 16 x 5 inches",
+        "reviews": "4.7 stars (500 reviews)",
+        "description": "A memory foam pillow designed for optimal comfort and support. It features a hypoallergenic cover and a contoured shape."
+    },
+    {
+        "product_name": "SmartHome Voice Assistant",
+        "price": "$129.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "150 units",
+        "dimensions": "6 x 6 x 6 inches",
+        "reviews": "4.6 stars (400 reviews)",
+        "description": "A voice assistant device with smart home integration and voice recognition. It includes various functionalities and can control compatible smart devices."
+    },
+    {
+        "product_name": "ErgoBalance Office Chair",
+        "price": "$349.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days with receipt",
+        "inventory": "80 units",
+        "dimensions": "24 x 24 x 40 inches",
+        "reviews": "4.5 stars (300 reviews)",
+        "description": "An office chair with ergonomic design and adjustable features for comfort. It includes lumbar support and a reclining function."
+    },
+    {
+        "product_name": "Portable Blender",
+        "price": "$49.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "200 units",
+        "dimensions": "8 x 8 x 12 inches",
+        "reviews": "4.4 stars (350 reviews)",
+        "description": "A portable blender with rechargeable battery and multiple blending speeds. It features a compact design for easy travel and a safety lock mechanism."
+    },
+    {
+        "product_name": "Compact Washer Dryer Combo",
+        "price": "$899.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "50 units",
+        "dimensions": "23 x 23 x 34 inches",
+        "reviews": "4.5 stars (150 reviews)",
+        "description": "A compact washer and dryer combo designed for small spaces. It includes various wash and dry settings and has a space-saving design."
+    },
+    {
+        "product_name": "Trendy Travel Backpack",
+        "price": "$89.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "150 units",
+        "dimensions": "18 x 12 x 8 inches",
+        "reviews": "4.6 stars (400 reviews)",
+        "description": "A travel backpack with multiple compartments and padded straps. It features a waterproof bottom and a stylish design suitable for various travel needs."
+    },
+    {
+        "product_name": "All-in-One Printer",
+        "price": "$249.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "70 units",
+        "dimensions": "18 x 15 x 12 inches",
+        "reviews": "4.4 stars (250 reviews)",
+        "description": "An all-in-one printer with scanning, copying, and printing capabilities. It includes wireless connectivity and an easy-to-use control panel."
+    },
+    {
+        "product_name": "Classic Recliner Sofa",
+        "price": "$799.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "20 units",
+        "dimensions": "80 x 36 x 40 inches",
+        "reviews": "4.6 stars (200 reviews)",
+        "description": "A recliner sofa with plush seating and an adjustable recline feature. It is upholstered in high-quality fabric and offers superior comfort."
+    },
+    {
+        "product_name": "Smart WiFi Light Bulbs",
+        "price": "$39.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "250 units",
+        "dimensions": "3 x 3 x 5 inches",
+        "reviews": "4.7 stars (500 reviews)",
+        "description": "Smart WiFi light bulbs with adjustable brightness and color settings. They are compatible with most smart home systems and offer remote control via app."
+    },
+    {
+        "product_name": "Deluxe Gaming Mouse",
+        "price": "$79.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "100 units",
+        "dimensions": "5 x 2 x 1.5 inches",
+        "reviews": "4.8 stars (300 reviews)",
+        "description": "A gaming mouse with customizable buttons and adjustable DPI settings. It features an ergonomic design and RGB lighting."
+    },
+    {
+        "product_name": "Luxury Bath Towels Set",
+        "price": "$49.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "500 units",
+        "dimensions": "27 x 54 inches (each towel)",
+        "reviews": "4.5 stars (700 reviews)",
+        "description": "A set of luxury bath towels made from high-quality cotton. The set includes two bath towels, two hand towels, and two washcloths."
+    },
+    {
+        "product_name": "Smartphone Pro X",
+        "price": "$999.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "50 units",
+        "dimensions": "6.5 x 3 x 0.3 inches",
+        "reviews": "4.5 stars (200 reviews)",
+        "description": "The Smartphone Pro X comes with a high-resolution camera and fast processing power. It has a sleek design and a large screen."
+    },
+    {
+        "product_name": "Bluetooth Headphones",
+        "price": "$129.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "150 units",
+        "dimensions": "7 x 6 x 3 inches",
+        "reviews": "4.6 stars (180 reviews)",
+        "description": "These Bluetooth headphones offer noise cancellation and long battery life. They come with a comfortable headband and adjustable ear cups."
+    },
+    {
+        "product_name": "Electric Kettle",
+        "price": "$49.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "200 units",
+        "dimensions": "9 x 6 x 8 inches",
+        "reviews": "4.4 stars (300 reviews)",
+        "description": "An electric kettle with rapid boiling capability and an auto shut-off feature. It has a sleek stainless steel design."
+    },
+    {
+        "product_name": "Ergonomic Office Chair",
+        "price": "$249.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "80 units",
+        "dimensions": "24 x 24 x 40 inches",
+        "reviews": "4.7 stars (220 reviews)",
+        "description": "This office chair features adjustable height and lumbar support. It's designed for maximum comfort during long work hours."
+    },
+    {
+        "product_name": "4K Ultra HD TV",
+        "price": "$499.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "70 units",
+        "dimensions": "43 x 28 x 4 inches",
+        "reviews": "4.8 stars (150 reviews)",
+        "description": "A 4K Ultra HD TV with vibrant colors and smart features. It comes with multiple HDMI ports and a built-in streaming platform."
+    },
+    {
+        "product_name": "Adjustable Standing Desk",
+        "price": "$349.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days with original packaging",
+        "inventory": "60 units",
+        "dimensions": "48 x 24 x 28 inches",
+        "reviews": "4.5 stars (100 reviews)",
+        "description": "An adjustable standing desk that allows you to switch between sitting and standing positions. It has programmable height settings."
+    },
+    {
+        "product_name": "Smartwatch Series 5",
+        "price": "$199.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "120 units",
+        "dimensions": "1.75 x 1.75 x 0.5 inches",
+        "reviews": "4.6 stars (400 reviews)",
+        "description": "The Smartwatch Series 5 features a heart rate monitor, GPS, and various fitness tracking functions. It has a sleek design and customizable watch faces."
+    },
+    {
+        "product_name": "Gourmet Coffee Maker",
+        "price": "$89.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "90 units",
+        "dimensions": "12 x 8 x 10 inches",
+        "reviews": "4.5 stars (220 reviews)",
+        "description": "A gourmet coffee maker that brews up to 12 cups. It features a programmable timer and a built-in grinder for fresh coffee."
+    },
+    {
+        "product_name": "Luxury Throw Blanket",
+        "price": "$59.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "150 units",
+        "dimensions": "50 x 60 inches",
+        "reviews": "4.7 stars (300 reviews)",
+        "description": "A luxury throw blanket made of high-quality, soft material. It's perfect for adding warmth and style to any room."
+    },
+    {
+        "product_name": "Cordless Vacuum Cleaner",
+        "price": "$199.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "100 units",
+        "dimensions": "7 x 10 x 45 inches",
+        "reviews": "4.5 stars (250 reviews)",
+        "description": "A cordless vacuum cleaner with strong suction power and a long-lasting battery. It includes multiple attachments for versatile cleaning."
+    },
+    {
+        "product_name": "High-End Blender",
+        "price": "$159.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "80 units",
+        "dimensions": "8 x 8 x 16 inches",
+        "reviews": "4.6 stars (200 reviews)",
+        "description": "A high-end blender with multiple speed settings and a durable glass jar. It's designed for making smoothies and other blended beverages."
+    },
+    {
+        "product_name": "Modern Coffee Table",
+        "price": "$129.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 14 days",
+        "inventory": "50 units",
+        "dimensions": "40 x 20 x 18 inches",
+        "reviews": "4.4 stars (100 reviews)",
+        "description": "A modern coffee table with a glass top and metal legs. It adds a sleek touch to any living room decor."
+    },
+    {
+        "product_name": "Eco-Friendly Yoga Mat",
+        "price": "$34.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "200 units",
+        "dimensions": "72 x 24 x 0.2 inches",
+        "reviews": "4.5 stars (400 reviews)",
+        "description": "An eco-friendly yoga mat with non-slip surface and cushioning. It's made from sustainable materials and is perfect for any workout."
+    },
+    {
+        "product_name": "Smart Watch Pro",
+        "price": "$299.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "75 units",
+        "dimensions": "1.5 x 1.5 x 0.5 inches",
+        "reviews": "4.8 stars (300 reviews)",
+        "description": "A high-tech smart watch with health tracking, notifications, and a sleek design."
+    },
+    {
+        "product_name": "Smart Watch Pro",
+        "price": "$299.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "75 units",
+        "dimensions": "1.5 x 1.5 x 0.5 inches",
+        "reviews": "4.8 stars (300 reviews)",
+        "description": "A high-tech smart watch with health tracking, notifications, and a sleek design."
+    },
+    {
+        "product_name": "Smart Watch Pro",
+        "price": "$299.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "75 units",
+        "dimensions": "1.5 x 1.5 x 0.5 inches",
+        "reviews": "4.8 stars (300 reviews)",
+        "description": "A high-tech smart watch with health tracking, notifications, and a sleek design."
+    },
+    {
+        "product_name": "Smart Watch Pro",
+        "price": "$299.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "75 units",
+        "dimensions": "1.5 x 1.5 x 0.5 inches",
+        "reviews": "4.8 stars (300 reviews)",
+        "description": "A high-tech smart watch with health tracking, notifications, and a sleek design."
+    },
+    {
+        "product_name": "Smart Watch Pro",
+        "price": "$299.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "75 units",
+        "dimensions": "1.5 x 1.5 x 0.5 inches",
+        "reviews": "4.8 stars (300 reviews)",
+        "description": "A high-tech smart watch with health tracking, notifications, and a sleek design."
+    },
+    {
+        "product_name": "Smart Watch Pro",
+        "price": "$299.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "75 units",
+        "dimensions": "1.5 x 1.5 x 0.5 inches",
+        "reviews": "4.8 stars (300 reviews)",
+        "description": "A high-tech smart watch with health tracking, notifications, and a sleek design."
+    },
+    {
+        "product_name": "Electric Scooter X",
+        "price": "$599.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "50 units",
+        "dimensions": "42 x 20 x 45 inches",
+        "reviews": "4.5 stars (250 reviews)",
+        "description": "An electric scooter with a long battery life and high speed. Great for city commuting."
+    },
+    {
+        "product_name": "Electric Scooter X",
+        "price": "$599.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "50 units",
+        "dimensions": "42 x 20 x 45 inches",
+        "reviews": "4.5 stars (250 reviews)",
+        "description": "An electric scooter with a long battery life and high speed. Great for city commuting."
+    },
+    {
+        "product_name": "Electric Scooter X",
+        "price": "$599.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "50 units",
+        "dimensions": "42 x 20 x 45 inches",
+        "reviews": "4.5 stars (250 reviews)",
+        "description": "An electric scooter with a long battery life and high speed. Great for city commuting."
+    },
+    {
+        "product_name": "Electric Scooter X",
+        "price": "$599.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "50 units",
+        "dimensions": "42 x 20 x 45 inches",
+        "reviews": "4.5 stars (250 reviews)",
+        "description": "An electric scooter with a long battery life and high speed. Great for city commuting."
+    },
+    {
+        "product_name": "Electric Scooter X",
+        "price": "$599.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "50 units",
+        "dimensions": "42 x 20 x 45 inches",
+        "reviews": "4.5 stars (250 reviews)",
+        "description": "An electric scooter with a long battery life and high speed. Great for city commuting."
+    },
+    {
+        "product_name": "Electric Scooter X",
+        "price": "$599.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "50 units",
+        "dimensions": "42 x 20 x 45 inches",
+        "reviews": "4.5 stars (250 reviews)",
+        "description": "An electric scooter with a long battery life and high speed. Great for city commuting."
+    },
+    {
+        "product_name": "Gaming Laptop Elite",
+        "price": "$1,299.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "40 units",
+        "dimensions": "15 x 10 x 1 inches",
+        "reviews": "4.7 stars (180 reviews)",
+        "description": "A high-performance gaming laptop with top-notch graphics and speed. Perfect for gamers."
+    },
+    {
+        "product_name": "Gaming Laptop Elite",
+        "price": "$1,299.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "40 units",
+        "dimensions": "15 x 10 x 1 inches",
+        "reviews": "4.7 stars (180 reviews)",
+        "description": "A high-performance gaming laptop with top-notch graphics and speed. Perfect for gamers."
+    },
+    {
+        "product_name": "Gaming Laptop Elite",
+        "price": "$1,299.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "40 units",
+        "dimensions": "15 x 10 x 1 inches",
+        "reviews": "4.7 stars (180 reviews)",
+        "description": "A high-performance gaming laptop with top-notch graphics and speed. Perfect for gamers."
+    },
+    {
+        "product_name": "Gaming Laptop Elite",
+        "price": "$1,299.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "40 units",
+        "dimensions": "15 x 10 x 1 inches",
+        "reviews": "4.7 stars (180 reviews)",
+        "description": "A high-performance gaming laptop with top-notch graphics and speed. Perfect for gamers."
+    },
+    {
+        "product_name": "Gaming Laptop Elite",
+        "price": "$1,299.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "40 units",
+        "dimensions": "15 x 10 x 1 inches",
+        "reviews": "4.7 stars (180 reviews)",
+        "description": "A high-performance gaming laptop with top-notch graphics and speed. Perfect for gamers."
+    },
+    {
+        "product_name": "Gaming Laptop Elite",
+        "price": "$1,299.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "40 units",
+        "dimensions": "15 x 10 x 1 inches",
+        "reviews": "4.7 stars (180 reviews)",
+        "description": "A high-performance gaming laptop with top-notch graphics and speed. Perfect for gamers."
+    },
+    {
+        "product_name": "4K Ultra HD TV",
+        "price": "$899.99",
+        "warranty": "3 years",
+        "refundable": "refundable within 60 days",
+        "inventory": "25 units",
+        "dimensions": "55 x 32 x 3 inches",
+        "reviews": "4.9 stars (250 reviews)",
+        "description": "A 4K Ultra HD TV with vibrant colors and sharp detail. Includes smart features for streaming and apps."
+    },
+    {
+        "product_name": "4K Ultra HD TV",
+        "price": "$899.99",
+        "warranty": "3 years",
+        "refundable": "refundable within 60 days",
+        "inventory": "25 units",
+        "dimensions": "55 x 32 x 3 inches",
+        "reviews": "4.9 stars (250 reviews)",
+        "description": "A 4K Ultra HD TV with vibrant colors and sharp detail. Includes smart features for streaming and apps."
+    },
+    {
+        "product_name": "4K Ultra HD TV",
+        "price": "$899.99",
+        "warranty": "3 years",
+        "refundable": "refundable within 60 days",
+        "inventory": "25 units",
+        "dimensions": "55 x 32 x 3 inches",
+        "reviews": "4.9 stars (250 reviews)",
+        "description": "A 4K Ultra HD TV with vibrant colors and sharp detail. Includes smart features for streaming and apps."
+    },
+    {
+        "product_name": "4K Ultra HD TV",
+        "price": "$899.99",
+        "warranty": "3 years",
+        "refundable": "refundable within 60 days",
+        "inventory": "25 units",
+        "dimensions": "55 x 32 x 3 inches",
+        "reviews": "4.9 stars (250 reviews)",
+        "description": "A 4K Ultra HD TV with vibrant colors and sharp detail. Includes smart features for streaming and apps."
+    },
+    {
+        "product_name": "4K Ultra HD TV",
+        "price": "$899.99",
+        "warranty": "3 years",
+        "refundable": "refundable within 60 days",
+        "inventory": "25 units",
+        "dimensions": "55 x 32 x 3 inches",
+        "reviews": "4.9 stars (250 reviews)",
+        "description": "A 4K Ultra HD TV with vibrant colors and sharp detail. Includes smart features for streaming and apps."
+    },
+    {
+        "product_name": "Compact Air Purifier",
+        "price": "$149.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "100 units",
+        "dimensions": "10 x 10 x 15 inches",
+        "reviews": "4.3 stars (90 reviews)",
+        "description": "A compact air purifier designed to improve air quality in small spaces. Features a HEPA filter and quiet operation."
+    },
+    {
+        "product_name": "Compact Air Purifier",
+        "price": "$149.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "100 units",
+        "dimensions": "10 x 10 x 15 inches",
+        "reviews": "4.3 stars (90 reviews)",
+        "description": "A compact air purifier designed to improve air quality in small spaces. Features a HEPA filter and quiet operation."
+    },
+    {
+        "product_name": "Compact Air Purifier",
+        "price": "$149.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "100 units",
+        "dimensions": "10 x 10 x 15 inches",
+        "reviews": "4.3 stars (90 reviews)",
+        "description": "A compact air purifier designed to improve air quality in small spaces. Features a HEPA filter and quiet operation."
+    },
+    {
+        "product_name": "Compact Air Purifier",
+        "price": "$149.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "100 units",
+        "dimensions": "10 x 10 x 15 inches",
+        "reviews": "4.3 stars (90 reviews)",
+        "description": "A compact air purifier designed to improve air quality in small spaces. Features a HEPA filter and quiet operation."
+    },
+    {
+        "product_name": "Compact Air Purifier",
+        "price": "$149.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 30 days",
+        "inventory": "100 units",
+        "dimensions": "10 x 10 x 15 inches",
+        "reviews": "4.3 stars (90 reviews)",
+        "description": "A compact air purifier designed to improve air quality in small spaces. Features a HEPA filter and quiet operation."
+    },
+    {
+        "product_name": "Wireless Earbuds",
+        "price": "$119.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 45 days",
+        "inventory": "200 units",
+        "dimensions": "0.8 x 0.8 x 1 inch",
+        "reviews": "4.6 stars (350 reviews)",
+        "description": "Wireless earbuds with noise cancellation and a long-lasting battery. Comes with multiple ear tip sizes for a perfect fit."
+    },
+    {
+        "product_name": "Wireless Earbuds",
+        "price": "$119.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 45 days",
+        "inventory": "200 units",
+        "dimensions": "0.8 x 0.8 x 1 inch",
+        "reviews": "4.6 stars (350 reviews)",
+        "description": "Wireless earbuds with noise cancellation and a long-lasting battery. Comes with multiple ear tip sizes for a perfect fit."
+    },
+    {
+        "product_name": "Wireless Earbuds",
+        "price": "$119.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 45 days",
+        "inventory": "200 units",
+        "dimensions": "0.8 x 0.8 x 1 inch",
+        "reviews": "4.6 stars (350 reviews)",
+        "description": "Wireless earbuds with noise cancellation and a long-lasting battery. Comes with multiple ear tip sizes for a perfect fit."
+    },
+    {
+        "product_name": "Wireless Earbuds",
+        "price": "$119.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 45 days",
+        "inventory": "200 units",
+        "dimensions": "0.8 x 0.8 x 1 inch",
+        "reviews": "4.6 stars (350 reviews)",
+        "description": "Wireless earbuds with noise cancellation and a long-lasting battery. Comes with multiple ear tip sizes for a perfect fit."
+    },
+    {
+        "product_name": "Wireless Earbuds",
+        "price": "$119.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 45 days",
+        "inventory": "200 units",
+        "dimensions": "0.8 x 0.8 x 1 inch",
+        "reviews": "4.6 stars (350 reviews)",
+        "description": "Wireless earbuds with noise cancellation and a long-lasting battery. Comes with multiple ear tip sizes for a perfect fit."
+    },
+    {
+        "product_name": "Leather Recliner Chair",
+        "price": "$499.99",
+        "warranty": "5 years",
+        "refundable": "refundable within 14 days",
+        "inventory": "15 units",
+        "dimensions": "40 x 35 x 45 inches",
+        "reviews": "4.4 stars (70 reviews)",
+        "description": "A comfortable leather recliner chair with reclining and rocking features. Ideal for relaxing after a long day."
+    },
+    {
+        "product_name": "Leather Recliner Chair",
+        "price": "$499.99",
+        "warranty": "5 years",
+        "refundable": "refundable within 14 days",
+        "inventory": "15 units",
+        "dimensions": "40 x 35 x 45 inches",
+        "reviews": "4.4 stars (70 reviews)",
+        "description": "A comfortable leather recliner chair with reclining and rocking features. Ideal for relaxing after a long day."
+    },
+    {
+        "product_name": "Leather Recliner Chair",
+        "price": "$499.99",
+        "warranty": "5 years",
+        "refundable": "refundable within 14 days",
+        "inventory": "15 units",
+        "dimensions": "40 x 35 x 45 inches",
+        "reviews": "4.4 stars (70 reviews)",
+        "description": "A comfortable leather recliner chair with reclining and rocking features. Ideal for relaxing after a long day."
+    },
+    {
+        "product_name": "Leather Recliner Chair",
+        "price": "$499.99",
+        "warranty": "5 years",
+        "refundable": "refundable within 14 days",
+        "inventory": "15 units",
+        "dimensions": "40 x 35 x 45 inches",
+        "reviews": "4.4 stars (70 reviews)",
+        "description": "A comfortable leather recliner chair with reclining and rocking features. Ideal for relaxing after a long day."
+    },
+    {
+        "product_name": "Smart Thermostat",
+        "price": "$249.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "60 units",
+        "dimensions": "4 x 4 x 1 inches",
+        "reviews": "4.8 stars (120 reviews)",
+        "description": "A smart thermostat with Wi-Fi connectivity and energy-saving features. Easy to control via smartphone app."
+    },
+    {
+        "product_name": "Smart Thermostat",
+        "price": "$249.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "60 units",
+        "dimensions": "4 x 4 x 1 inches",
+        "reviews": "4.8 stars (120 reviews)",
+        "description": "A smart thermostat with Wi-Fi connectivity and energy-saving features. Easy to control via smartphone app."
+    },
+    {
+        "product_name": "Smart Thermostat",
+        "price": "$249.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "60 units",
+        "dimensions": "4 x 4 x 1 inches",
+        "reviews": "4.8 stars (120 reviews)",
+        "description": "A smart thermostat with Wi-Fi connectivity and energy-saving features. Easy to control via smartphone app."
+    },
+    {
+        "product_name": "Smart Thermostat",
+        "price": "$249.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "60 units",
+        "dimensions": "4 x 4 x 1 inches",
+        "reviews": "4.8 stars (120 reviews)",
+        "description": "A smart thermostat with Wi-Fi connectivity and energy-saving features. Easy to control via smartphone app."
+    },
+    {
+        "product_name": "Adjustable Standing Desk",
+        "price": "$349.99",
+        "warranty": "3 years",
+        "refundable": "refundable within 45 days",
+        "inventory": "30 units",
+        "dimensions": "60 x 30 x 25-45 inches",
+        "reviews": "4.5 stars (150 reviews)",
+        "description": "An adjustable standing desk with easy height adjustments. Ideal for improving posture and reducing back pain."
+    },
+    {
+        "product_name": "Adjustable Standing Desk",
+        "price": "$349.99",
+        "warranty": "3 years",
+        "refundable": "refundable within 45 days",
+        "inventory": "30 units",
+        "dimensions": "60 x 30 x 25-45 inches",
+        "reviews": "4.5 stars (150 reviews)",
+        "description": "An adjustable standing desk with easy height adjustments. Ideal for improving posture and reducing back pain."
+    },
+    {
+        "product_name": "Adjustable Standing Desk",
+        "price": "$349.99",
+        "warranty": "3 years",
+        "refundable": "refundable within 45 days",
+        "inventory": "30 units",
+        "dimensions": "60 x 30 x 25-45 inches",
+        "reviews": "4.5 stars (150 reviews)",
+        "description": "An adjustable standing desk with easy height adjustments. Ideal for improving posture and reducing back pain."
+    },
+    {
+        "product_name": "Adjustable Standing Desk",
+        "price": "$349.99",
+        "warranty": "3 years",
+        "refundable": "refundable within 45 days",
+        "inventory": "30 units",
+        "dimensions": "60 x 30 x 25-45 inches",
+        "reviews": "4.5 stars (150 reviews)",
+        "description": "An adjustable standing desk with easy height adjustments. Ideal for improving posture and reducing back pain."
+    },
+    {
+        "product_name": "Smartwatch Pro",
+        "price": "$299.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "80 units",
+        "dimensions": "1.5 x 1.5 x 0.5 inches",
+        "reviews": "4.7 stars (180 reviews)",
+        "description": "A high-tech smartwatch with fitness tracking, notifications, and a sleek design."
+    },
+    {
+        "product_name": "Smartwatch Pro",
+        "price": "$299.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "80 units",
+        "dimensions": "1.5 x 1.5 x 0.5 inches",
+        "reviews": "4.7 stars (180 reviews)",
+        "description": "A high-tech smartwatch with fitness tracking, notifications, and a sleek design."
+    },
+    {
+        "product_name": "Smartwatch Pro",
+        "price": "$299.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "80 units",
+        "dimensions": "1.5 x 1.5 x 0.5 inches",
+        "reviews": "4.7 stars (180 reviews)",
+        "description": "A high-tech smartwatch with fitness tracking, notifications, and a sleek design."
+    },
+    {
+        "product_name": "Smartwatch Pro",
+        "price": "$299.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "80 units",
+        "dimensions": "1.5 x 1.5 x 0.5 inches",
+        "reviews": "4.7 stars (180 reviews)",
+        "description": "A high-tech smartwatch with fitness tracking, notifications, and a sleek design."
+    },
+    {
+        "product_name": "Bluetooth Speaker",
+        "price": "$89.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 45 days",
+        "inventory": "150 units",
+        "dimensions": "6 x 6 x 3 inches",
+        "reviews": "4.4 stars (210 reviews)",
+        "description": "A portable Bluetooth speaker with high-quality sound and a long battery life."
+    },
+    {
+        "product_name": "Bluetooth Speaker",
+        "price": "$89.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 45 days",
+        "inventory": "150 units",
+        "dimensions": "6 x 6 x 3 inches",
+        "reviews": "4.4 stars (210 reviews)",
+        "description": "A portable Bluetooth speaker with high-quality sound and a long battery life."
+    },
+    {
+        "product_name": "Bluetooth Speaker",
+        "price": "$89.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 45 days",
+        "inventory": "150 units",
+        "dimensions": "6 x 6 x 3 inches",
+        "reviews": "4.4 stars (210 reviews)",
+        "description": "A portable Bluetooth speaker with high-quality sound and a long battery life."
+    },
+    {
+        "product_name": "Bluetooth Speaker",
+        "price": "$89.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 45 days",
+        "inventory": "150 units",
+        "dimensions": "6 x 6 x 3 inches",
+        "reviews": "4.4 stars (210 reviews)",
+        "description": "A portable Bluetooth speaker with high-quality sound and a long battery life."
+    },
+    {
+        "product_name": "Portable Blender",
+        "price": "$69.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 60 days",
+        "inventory": "120 units",
+        "dimensions": "8 x 8 x 10 inches",
+        "reviews": "4.6 stars (80 reviews)",
+        "description": "A compact portable blender perfect for making smoothies on the go. Includes a rechargeable battery."
+    },
+    {
+        "product_name": "Portable Blender",
+        "price": "$69.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 60 days",
+        "inventory": "120 units",
+        "dimensions": "8 x 8 x 10 inches",
+        "reviews": "4.6 stars (80 reviews)",
+        "description": "A compact portable blender perfect for making smoothies on the go. Includes a rechargeable battery."
+    },
+    {
+        "product_name": "Portable Blender",
+        "price": "$69.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 60 days",
+        "inventory": "120 units",
+        "dimensions": "8 x 8 x 10 inches",
+        "reviews": "4.6 stars (80 reviews)",
+        "description": "A compact portable blender perfect for making smoothies on the go. Includes a rechargeable battery."
+    },
+    {
+        "product_name": "Portable Blender",
+        "price": "$69.99",
+        "warranty": "1 year",
+        "refundable": "refundable within 60 days",
+        "inventory": "120 units",
+        "dimensions": "8 x 8 x 10 inches",
+        "reviews": "4.6 stars (80 reviews)",
+        "description": "A compact portable blender perfect for making smoothies on the go. Includes a rechargeable battery."
+    },
+    {
+        "product_name": "Gaming Monitor",
+        "price": "$349.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "50 units",
+        "dimensions": "27 x 16 x 8 inches",
+        "reviews": "4.8 stars (90 reviews)",
+        "description": "A high-refresh-rate gaming monitor with stunning visuals and low input lag."
+    },
+    {
+        "product_name": "Gaming Monitor",
+        "price": "$349.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "50 units",
+        "dimensions": "27 x 16 x 8 inches",
+        "reviews": "4.8 stars (90 reviews)",
+        "description": "A high-refresh-rate gaming monitor with stunning visuals and low input lag."
+    },
+    {
+        "product_name": "Gaming Monitor",
+        "price": "$349.99",
+        "warranty": "2 years",
+        "refundable": "refundable within 30 days",
+        "inventory": "50 units",
+        "dimensions": "27 x 16 x 8 inches",
+        "reviews": "4.8 stars (90 reviews)",
+        "description": "A high-refresh-rate gaming monitor with stunning visuals and low input lag."
+    },
+    {
+        "product_name": "Portable Air Purifier",
+        "price": "$79.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": 200,
+        "dimensions": "8x8x16 inches",
+        "reviews": "4.4 stars (289 reviews)",
+        "description": "This compact air purifier is perfect for small rooms. It removes 99.97% of airborne particles, including dust and allergens. The purifier features a quiet mode and a filter replacement indicator. Ideal for home offices or bedrooms."
+    },
+    {
+        "product_name": "Smart Wi-Fi Plug",
+        "price": "$29.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": 500,
+        "dimensions": "2x2x2 inches",
+        "reviews": "4.6 stars (1,200 reviews)",
+        "description": "Control your devices remotely with the Smart Wi-Fi Plug. It allows you to schedule power on/off times and is compatible with Alexa and Google Assistant. The plug is compact, easy to set up, and perfect for automating your home electronics."
+    },
+    {
+        "product_name": "Foldable Treadmill",
+        "price": "$599.99",
+        "warranty": "2 years",
+        "refundable": "No",
+        "inventory": 45,
+        "dimensions": "60x30x55 inches",
+        "reviews": "4.3 stars (320 reviews)",
+        "description": "This foldable treadmill is designed for home workouts. It features multiple speed settings, an LCD display for tracking progress, and a space-saving design. The treadmill is built to last with a sturdy frame and high-quality materials."
+    },
+    {
+        "product_name": "Bluetooth Soundbar",
+        "price": "$199.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": 100,
+        "dimensions": "35x5x3 inches",
+        "reviews": "4.5 stars (650 reviews)",
+        "description": "Enhance your TV's audio with the Bluetooth Soundbar. It delivers rich, clear sound and includes a built-in subwoofer for deep bass. The soundbar is wall-mountable and comes with a remote control. Perfect for movies, music, and gaming."
+    },
+    {
+        "product_name": "Adjustable Dumbbells",
+        "price": "$349.99",
+        "warranty": "5 years",
+        "refundable": "No",
+        "inventory": 60,
+        "dimensions": "15x8x8 inches",
+        "reviews": "4.7 stars (1,000 reviews)",
+        "description": "These adjustable dumbbells are perfect for strength training. They replace multiple sets of weights and can be adjusted from 5 to 50 lbs. The dumbbells have a comfortable grip and a durable design. Ideal for home gyms and fitness enthusiasts."
+    },
+    {
+        "product_name": "Stainless Steel Toaster",
+        "price": "$49.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": 150,
+        "dimensions": "12x7x8 inches",
+        "reviews": "4.4 stars (340 reviews)",
+        "description": "This stainless steel toaster features 4 slots, variable browning control, and a defrost function. It is designed to toast bread evenly and comes with a removable crumb tray for easy cleaning. The sleek design fits perfectly in any kitchen."
+    },
+    {
+        "product_name": "4K Ultra HD Monitor",
+        "price": "$399.99",
+        "warranty": "3 years",
+        "refundable": "No",
+        "inventory": 85,
+        "dimensions": "27 inches",
+        "reviews": "4.6 stars (890 reviews)",
+        "description": "Experience stunning visuals with this 4K Ultra HD Monitor. It offers crisp image quality, wide viewing angles, and multiple connectivity options. The monitor has a slim bezel and is perfect for gaming, editing, and professional work."
+    },
+    {
+        "product_name": "Waterproof Action Camera",
+        "price": "$149.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": 300,
+        "dimensions": "Compact",
+        "reviews": "4.3 stars (1,500 reviews)",
+        "description": "Capture every adventure with the Waterproof Action Camera. It records in 4K resolution and is waterproof up to 30 meters. The camera comes with multiple accessories, including mounts and a rechargeable battery. Perfect for outdoor enthusiasts."
+    },
+    {
+        "product_name": "Ergonomic Office Chair",
+        "price": "$249.99",
+        "warranty": "5 years",
+        "refundable": "Yes",
+        "inventory": 120,
+        "dimensions": "24x26x40 inches",
+        "reviews": "4.8 stars (1,050 reviews)",
+        "description": "This ergonomic office chair provides excellent lumbar support and features adjustable armrests and height. It is designed to improve posture and reduce back pain during long hours of work. The chair is made with breathable mesh and high-density foam for comfort."
+    },
+    {
+        "product_name": "Smart LED Desk Lamp",
+        "price": "$59.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": 300,
+        "dimensions": "15x6x18 inches",
+        "reviews": "4.5 stars (650 reviews)",
+        "description": "This Smart LED Desk Lamp offers adjustable brightness and color temperatures, making it perfect for reading, studying, or working. The lamp can be controlled via a mobile app or voice commands with Alexa and Google Assistant integration. It also includes a wireless charging pad."
+    },
+    {
+        "product_name": "Luxury Memory Foam Mattress",
+        "price": "$899.99",
+        "warranty": "10 years",
+        "refundable": "No",
+        "inventory": 30,
+        "dimensions": "Queen Size",
+        "reviews": "4.9 stars (3,200 reviews)",
+        "description": "Experience ultimate comfort with the Luxury Memory Foam Mattress. It features multi-layered memory foam that adapts to your body shape, providing pressure relief and support. The mattress is hypoallergenic and designed to reduce motion transfer, ensuring a peaceful night's sleep."
+    },
+    {
+        "product_name": "Outdoor Patio Set",
+        "price": "$1,499.99",
+        "warranty": "3 years",
+        "refundable": "No",
+        "inventory": 20,
+        "dimensions": "Includes Sofa, Table, and Chairs",
+        "reviews": "4.7 stars (480 reviews)",
+        "description": "Transform your outdoor space with this elegant patio set. It includes a comfortable sofa, two armchairs, and a tempered glass table. The set is made with weather-resistant materials and UV-protected cushions, perfect for enjoying the outdoors year-round."
+    },
+    {
+        "product_name": "Digital Air Fryer",
+        "price": "$129.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": 500,
+        "dimensions": "5.8 Quarts",
+        "reviews": "4.6 stars (2,300 reviews)",
+        "description": "Cook healthier meals with the Digital Air Fryer. It uses rapid air technology to fry food with little to no oil, offering a guilt-free alternative to traditional frying. The air fryer features a digital touch screen with preset cooking modes for easy operation."
+    },
+    {
+        "product_name": "Fitness Tracker Watch",
+        "price": "$89.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": 350,
+        "dimensions": "Adjustable Band",
+        "reviews": "4.4 stars (4,500 reviews)",
+        "description": "Stay on top of your health goals with the Fitness Tracker Watch. It monitors your heart rate, tracks steps, calories burned, and sleep patterns. The watch is waterproof and includes features like GPS tracking, call, and message notifications, making it a perfect companion for an active lifestyle."
+    },
+    {
+        "product_name": "Noise-Cancelling Headphones",
+        "price": "$299.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": 250,
+        "dimensions": "Over-Ear",
+        "reviews": "4.7 stars (2,800 reviews)",
+        "description": "Immerse yourself in your favorite music with these Noise-Cancelling Headphones. They feature advanced noise-cancellation technology, long battery life, and premium sound quality. The headphones are comfortable for all-day wear and foldable for easy portability."
+    },
+    {
+        "product_name": "Electric Standing Desk",
+        "price": "$699.99",
+        "warranty": "5 years",
+        "refundable": "No",
+        "inventory": 60,
+        "dimensions": "48x30 inches",
+        "reviews": "4.8 stars (750 reviews)",
+        "description": "Upgrade your workspace with the Electric Standing Desk. It allows you to adjust the height with the touch of a button, promoting a healthier work environment by alternating between sitting and standing. The desk is sturdy, easy to assemble, and has a sleek modern design."
+    },
+    {
+        "product_name": "Robotic Vacuum Cleaner",
+        "price": "$399.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": 200,
+        "dimensions": "Compact",
+        "reviews": "4.5 stars (1,800 reviews)",
+        "description": "Keep your floors clean with the Robotic Vacuum Cleaner. It features advanced navigation technology, powerful suction, and automatic recharging. The vacuum is designed to clean both carpets and hard floors, with the ability to schedule cleaning sessions via a mobile app."
+    },
+    {
+        "product_name": "Luxury Leather Sofa",
+        "price": "$2,499.99",
+        "warranty": "5 years",
+        "refundable": "No",
+        "inventory": 10,
+        "dimensions": "84x38x34 inches",
+        "reviews": "4.9 stars (300 reviews)",
+        "description": "Add a touch of elegance to your living room with the Luxury Leather Sofa. Made from premium full-grain leather, this sofa offers superior comfort and durability. It features a classic design with plush cushions and a solid wood frame, perfect for sophisticated interiors."
+    },
+    {
+        "product_name": "Wireless Charging Station",
+        "price": "$39.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": 400,
+        "dimensions": "6x3x1 inches",
+        "reviews": "4.4 stars (900 reviews)",
+        "description": "Charge all your devices in one place with the Wireless Charging Station. It supports fast charging for smartphones, smartwatches, and earbuds. The station features an LED indicator and a sleek design that fits any modern decor, making it a convenient solution for your charging needs."
+    },
+    {
+        "product_name": "Vintage Vinyl Record Player",
+        "price": "$329.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": 75,
+        "dimensions": "15x13x5 inches",
+        "reviews": "4.7 stars (890 reviews)",
+        "description": "This Vintage Vinyl Record Player combines classic design with modern technology. It features a wooden exterior, built-in speakers, and Bluetooth connectivity, allowing you to enjoy your favorite records or stream music from your smartphone. Perfect for audiophiles and retro enthusiasts."
+    },
+    {
+        "product_name": "Smart Hydroponic Garden",
+        "price": "$199.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": 150,
+        "dimensions": "18x12x10 inches",
+        "reviews": "4.8 stars (1,200 reviews)",
+        "description": "Grow fresh herbs and vegetables indoors with the Smart Hydroponic Garden. It features an automated watering system, adjustable LED grow lights, and a user-friendly app that guides you through the growing process. Ideal for urban gardeners and healthy living enthusiasts."
+    },
+    {
+        "product_name": "Luxury Pet Sofa",
+        "price": "$179.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": 50,
+        "dimensions": "30x20x15 inches",
+        "reviews": "4.9 stars (320 reviews)",
+        "description": "Pamper your pet with the Luxury Pet Sofa. This elegant piece is made from durable materials and features a plush cushion for maximum comfort. The sofa is designed to complement your home decor while providing a cozy spot for your pet to relax."
+    },
+    {
+        "product_name": "Portable Solar Power Bank",
+        "price": "$69.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": 500,
+        "dimensions": "6x3x0.8 inches",
+        "reviews": "4.6 stars (2,400 reviews)",
+        "description": "Keep your devices charged on the go with the Portable Solar Power Bank. It has a 20,000mAh capacity, dual USB ports, and a built-in solar panel for emergency charging. The power bank is waterproof, dustproof, and shockproof, making it perfect for outdoor adventures."
+    },
+    {
+        "product_name": "Artisan Handcrafted Wooden Chess Set",
+        "price": "$149.99",
+        "warranty": "Lifetime",
+        "refundable": "Yes",
+        "inventory": 25,
+        "dimensions": "15x15 inches (board)",
+        "reviews": "5.0 stars (150 reviews)",
+        "description": "This Artisan Handcrafted Wooden Chess Set is a work of art. Each piece is meticulously carved from solid wood, and the board is inlaid with premium materials. The set is perfect for chess enthusiasts and collectors who appreciate craftsmanship and elegance."
+    },
+    {
+        "product_name": "Silent Ultrasonic Humidifier",
+        "price": "$89.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": 200,
+        "dimensions": "10x7x12 inches",
+        "reviews": "4.4 stars (900 reviews)",
+        "description": "Improve the air quality in your home with the Silent Ultrasonic Humidifier. It operates quietly and efficiently, with adjustable mist levels and a large water tank for extended use. The humidifier also features a built-in night light, making it ideal for bedrooms."
+    },
+    {
+        "product_name": "Handwoven Wool Area Rug",
+        "price": "$499.99",
+        "warranty": "5 years",
+        "refundable": "No",
+        "inventory": 35,
+        "dimensions": "8x10 feet",
+        "reviews": "4.8 stars (210 reviews)",
+        "description": "Add warmth and texture to your space with this Handwoven Wool Area Rug. Crafted by skilled artisans, the rug features a unique pattern and is made from 100% natural wool. It is soft underfoot and durable, making it a perfect addition to any room."
+    },
+    {
+        "product_name": "Vintage Leather Journal",
+        "price": "$49.99",
+        "warranty": "1 year",
+        "refundable": "Yes",
+        "inventory": 100,
+        "dimensions": "8x6 inches",
+        "reviews": "4.9 stars (500 reviews)",
+        "description": "Capture your thoughts and ideas in this Vintage Leather Journal. Made from genuine leather, the journal features a classic design with a wrap-around strap and high-quality, acid-free paper. Perfect for writers, artists, and anyone who appreciates a touch of nostalgia."
+    },
+    {
+        "product_name": "Smart Mirror with Touchscreen",
+        "price": "$999.99",
+        "warranty": "3 years",
+        "refundable": "Yes",
+        "inventory": 20,
+        "dimensions": "24x36 inches",
+        "reviews": "4.7 stars (180 reviews)",
+        "description": "Upgrade your daily routine with the Smart Mirror with Touchscreen. It features a built-in display that provides real-time weather updates, news, and more. The mirror is also equipped with voice control and smart home integration, making it a cutting-edge addition to any bathroom or bedroom."
+    },
+    {
+        "product_name": "Compact Espresso Machine",
+        "price": "$249.99",
+        "warranty": "2 years",
+        "refundable": "Yes",
+        "inventory": 150,
+        "dimensions": "9x12x14 inches",
+        "reviews": "4.6 stars (720 reviews)",
+        "description": "Brew the perfect cup of coffee with the Compact Espresso Machine. It features a powerful 15-bar pump, a milk frother, and customizable settings for your preferred brew strength. The machine is easy to use and fits seamlessly into any kitchen, making it a must-have for coffee lovers."
+    },
+    {
+        "product_name": "Ergonomic Office Chair with Lumbar Support",
+        "price": "$399.99",
+        "warranty": "5 years",
+        "refundable": "Yes, within 45 days",
+        "inventory": 200,
+        "dimensions": "24x24x45 inches",
+        "reviews": "4.5 stars (1,100 reviews)",
+        "description": "Experience all-day comfort with the Ergonomic Office Chair. Designed with adjustable lumbar support, a breathable mesh back, and a cushioned seat, this chair promotes proper posture and reduces strain during long hours of sitting. Ideal for home offices and workspaces."
+    },
+    {
+        "product_name": "Bluetooth Sleep Mask with Built-in Headphones",
+        "price": "$69.99",
+        "warranty": "2 years",
+        "refundable": "Yes, within 30 days",
+        "inventory": 300,
+        "dimensions": "8x4x0.5 inches",
+        "reviews": "4.8 stars (850 reviews)",
+        "description": "Enjoy a peaceful night's sleep with the Bluetooth Sleep Mask. This mask combines a comfortable, light-blocking design with built-in Bluetooth headphones, allowing you to listen to soothing sounds or your favorite music as you fall asleep. Perfect for frequent travelers and light sleepers."
+    },
+    {
+        "product_name": "Smart Electric Bike",
+        "price": "$1,299.99",
+        "warranty": "3 years",
+        "refundable": "Yes, within 60 days",
+        "inventory": 50,
+        "dimensions": "70x24x40 inches",
+        "reviews": "4.7 stars (620 reviews)",
+        "description": "Commute in style with the Smart Electric Bike. Featuring a powerful motor, long-lasting battery, and multiple riding modes, this bike is perfect for urban travel. It also includes smart features like GPS tracking, a digital display, and app integration for route planning."
+    },
+    {
+        "product_name": "Smart Kitchen Scale with Nutritional Analysis",
+        "price": "$49.99",
+        "warranty": "1 year",
+        "refundable": "Yes, within 30 days",
+        "inventory": 500,
+        "dimensions": "8x6x1 inches",
+        "reviews": "4.6 stars (1,200 reviews)",
+        "description": "The Smart Kitchen Scale helps you keep track of your diet by providing precise measurements and nutritional information. Connect it to your smartphone to access a large database of foods, calculate calorie intake, and manage your daily nutrition."
+    },
+    {
+        "product_name": "Advanced Home Security Camera System",
+        "price": "$599.99",
+        "warranty": "3 years",
+        "refundable": "Yes, within 90 days",
+        "inventory": 100,
+        "dimensions": "Multiple cameras: 4x4x4 inches each",
+        "reviews": "4.9 stars (980 reviews)",
+        "description": "Keep your home safe with the Advanced Home Security Camera System. This comprehensive system includes multiple high-definition cameras with night vision, motion detection, and real-time alerts. It integrates seamlessly with smart home systems and offers cloud storage options."
+    },
+    {
+        "product_name": "Luxury Silk Bedding Set",
+        "price": "$349.99",
+        "warranty": "2 years",
+        "refundable": "Yes, within 30 days",
+        "inventory": 75,
+        "dimensions": "Queen Size: 90x100 inches",
+        "reviews": "4.8 stars (520 reviews)",
+        "description": "Transform your bedroom with the Luxury Silk Bedding Set. Made from 100% pure mulberry silk, this bedding set is soft, breathable, and hypoallergenic. It includes a duvet cover, fitted sheet, and pillowcases, offering a touch of elegance and ultimate comfort."
+    },
+    {
+        "product_name": "Smart Indoor Herb Garden Kit",
+        "price": "$129.99",
+        "warranty": "2 years",
+        "refundable": "Yes, within 30 days",
+        "inventory": 300,
+        "dimensions": "20x12x8 inches",
+        "reviews": "4.7 stars (900 reviews)",
+        "description": "Grow fresh herbs year-round with the Smart Indoor Herb Garden Kit. This kit features a self-watering system, adjustable LED grow lights, and an app that helps you monitor and manage your plants. Perfect for those who love cooking with fresh ingredients."
+    },
+    {
+        "product_name": "High-Performance Gaming Laptop",
+        "price": "$2,499.99",
+        "warranty": "3 years",
+        "refundable": "Yes, within 60 days",
+        "inventory": 30,
+        "dimensions": "15.6-inch display",
+        "reviews": "4.9 stars (1,400 reviews)",
+        "description": "The High-Performance Gaming Laptop offers top-of-the-line specs for serious gamers. Equipped with the latest processor, high-end graphics card, and fast SSD storage, it ensures smooth gameplay and fast load times. It also features RGB lighting and advanced cooling for peak performance."
+    },
+    {
+        "product_name": "Smart Thermostat with Voice Control",
+        "price": "$199.99",
+        "warranty": "2 years",
+        "refundable": "Yes, within 30 days",
+        "inventory": 400,
+        "dimensions": "3.5x3.5x1 inches",
+        "reviews": "4.6 stars (950 reviews)",
+        "description": "Take control of your home's climate with the Smart Thermostat. Featuring voice control, a user-friendly app, and energy-saving features, this thermostat learns your preferences and adjusts the temperature automatically. It integrates with most smart home systems for seamless operation."
+    }
+]
