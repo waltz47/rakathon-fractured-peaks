@@ -104,8 +104,8 @@ from torch.optim.lr_scheduler import CosineAnnealingLR
 from transformers import AutoModelForCausalLM, AutoTokenizer, get_linear_schedule_with_warmup
 from tqdm import tqdm
 
-modelname = r"ecom_bot_prod"
-model_username = r"ecom_bot_user"
+modelname = r"heirtothedemon/ecom_bot_prod"
+model_username = r"heirtothedemon/ecom_bot_user"
 
 model = AutoModelForCausalLM.from_pretrained(modelname).to("cuda")
 tokenizer = AutoTokenizer.from_pretrained(modelname)
