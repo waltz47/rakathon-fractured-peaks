@@ -1,4 +1,38 @@
 /* styles.css */
+.taskbar-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #F8F9FA; /* Light background color for the header */
+    border-bottom: 1px solid #DEE2E6; /* Subtle border for separation */
+}
+
+.taskbar-title {
+    font-size: 2em;
+    color: #333; /* Dark text color for good contrast */
+}
+
+.login-button {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background-color: #007BFF; /* Blue background */
+    color: #FFFFFF; /* White text */
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+}
+
+.login-button:hover {
+    background-color: #0056b3; /* Darker blue for hover effect */
+}
+
+/* styles.css */
 .product-card:hover {
     transform: scale(1.05);
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
@@ -53,7 +87,7 @@ body {
 }
 
 .chat-box {
-    width: 100%;
+    width: 80%;
     max-height: 400px;
     overflow-y: auto;
     border: 1px solid #ddd;
@@ -62,4 +96,49 @@ body {
     border-radius: 5px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     margin: 20px;
+}
+
+/* styles.css */
+.taskbar-title {
+    text-align: center;
+    flex: 1;
+    font-size: 2em; /* Adjust font size */
+    color: #333;    /* Text color */
+    background-color: #f8f9fa; /* Background color */
+    padding: 10px; /* Padding around text */
+    border-bottom: 2px solid #ddd; /* Bottom border */
+}
+
+/* styles.css */
+.taskbar-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #F8F9FA; /* Light background color for the header */
+    border-bottom: 1px solid #DEE2E6; /* Subtle border for separation */
+}
+
+.taskbar-title {
+    font-size: 2em;
+    color: #333; /* Dark text color for good contrast */
+}
+
+.login-button {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background-color: #007BFF; /* Blue background */
+    color: #FFFFFF; /* White text */
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+}
+
+.login-button:hover {
+    background-color: #0056b3; /* Darker blue for hover effect */
 }

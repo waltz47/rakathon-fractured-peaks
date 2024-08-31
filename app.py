@@ -62,15 +62,17 @@ def get_product_rack_layout():
 
     return html.Div(
         [
-            html.H2("Products", style={
-                'textAlign': 'center',
-                'color': '#333',
-                'marginBottom': '30px',
-                'fontWeight': 'bold',
-                'fontSize': '28px',
-                'borderBottom': '2px solid #ddd',
-                'paddingBottom': '10px'
-            }),
+            html.Div([
+                html.H2("Products", style={
+                    'textAlign': 'center',
+                    'color': '#333',
+                    'marginBottom': '30px',
+                    'fontWeight': 'bold',
+                    'fontSize': '28px',
+                    'borderBottom': '2px solid #ddd',
+                    'paddingBottom': '5px'
+                })
+            ], style={'backgroundColor': '#C3E7F5', 'padding' : "3px", 'borderRadius': '8px','boxShadow': '0 2px 4px rgba(0, 0, 0, 0.2)' }),
             *rows
         ],
         style={'flex': '7', 'backgroundColor': '#f9f9f9', 'padding': '20px', 'borderRadius': '10px', 'boxShadow': '0 8px 16px rgba(0, 0, 0, 0.1)'}
@@ -81,10 +83,20 @@ home_layout = html.Div([
     
     html.Div(
         [
-            html.H1("Fractured Peaks", style={'textAlign': 'center', 'flex': '1'}),
+            html.H1(
+                "Fractured Peaks",
+                style={
+                    'fontSize': '2.5em',           # Larger font size for emphasis
+                    'color': '#343A40',           # Dark gray text color
+                    'margin': '0',                # Remove default margins
+                    'fontFamily': 'Arial, sans-serif', # Clean, modern font
+                    'fontWeight': 'bold' ,         # Bold font weight
+                    'borderRadius': '8px',
+                }
+            ),
             html.A(
                 html.Div(
-                    ' 👤 ',  # You can use any icon or text you like
+                    ' 👤 ',  # User icon
                     style={
                         'width': '40px',
                         'height': '40px',
@@ -92,29 +104,44 @@ home_layout = html.Div([
                         'alignItems': 'center',
                         'justifyContent': 'center',
                         'borderRadius': '50%',
-                        'backgroundColor': '#007BFF',
-                        'color': '#FFFFFF',
+                        'backgroundColor': '#007BFF',  # Blue background
+                        'color': '#FFFFFF',            # White text
                         'textDecoration': 'none',
-                        'fontSize': '18px',
-                        'fontWeight': 'bold'
+                        'fontSize': '20px',            # Slightly larger icon
+                        'fontWeight': 'bold',
+                        'boxShadow': '0 4px 6px rgba(0, 0, 0, 0.2)'  # More pronounced shadow for depth
                     }
                 ),
                 href='/user',  # Replace with the actual page URL
                 style={
-                    'marginRight': '10px'
+                    'marginLeft': '10px'           # Margin to the left of the button
                 }
             )
         ],
-        style={'display': 'flex', 'alignItems': 'center', 'justifyContent': 'space-between', 'padding': '10px'}
+        style={
+            'display': 'flex',
+            'alignItems': 'center',
+            'justifyContent': 'space-between',
+            'padding': '15px 20px',           # Increased padding for a spacious look
+            'backgroundColor': '#87CEEB',    # Light background color for the header
+            'borderBottom': '2px solid #DEE2E6', # Slightly thicker border for separation
+            'boxShadow': '0 2px 5px rgba(0, 0, 0, 0.1)', # Light shadow for a subtle lift effect
+            'fontFamily': 'Arial, sans-serif',  # Consistent font family
+            'borderRadius': '8px'
+        }
     ),
 
+    html.Hr(),
     html.Div(
         [
             get_product_rack_layout(),
 
             html.Div(
                 [
-                    html.H2("Chat Support", className='chat-support-header'),
+                    html.Div([
+                        html.H2("Chat Support", className='chat-support-header'),
+                    ], style={'backgroundColor': '#C3E7F5', 'padding' : "3px", 'borderRadius': '8px','boxShadow': '0 2px 4px rgba(0, 0, 0, 0.2)' }),
+
                     html.Hr(),
 
                     # User input field
@@ -153,12 +180,16 @@ def get_product_page(pathname):
     f.set_index('product_name', inplace=True, drop=True)
     product_name = pathname.replace("_", " ")
     description = str(f.loc[product_name, "description"])
+    warranty = str(f.loc[product_name, "warranty"])
+    inventory = str(f.loc[product_name, "inventory"])
+    refundable = str(f.loc[product_name, "refundable"])
+    reviews = str(f.loc[product_name, "reviews"])
     price = str(f.loc[product_name, "price"])
-    price = ''.join([char for char in price if char.isdigit() or char == "."])
-    price = price.split('.')[0]
+    # price = ''.join([char for char in price if char.isdigit() or char == "."])
+    # price = price.split('.')[0]
 
     page_layout = html.Div([
-        html.H1(pathname.replace("_", " "), style={'textAlign': 'center'}),
+        html.H1(pathname.replace("_", " "),style={'display': 'flex','alignItems': 'center','justifyContent': 'space-between','padding': '15px 20px', 'backgroundColor': '#87CEEB', 'borderBottom': '2px solid #DEE2E6', 'boxShadow': '0 2px 5px rgba(0, 0, 0, 0.1)', 'fontFamily': 'Arial, sans-serif', 'borderRadius': '8px'}),
         html.Hr(),
 
         html.Div([
@@ -181,6 +212,18 @@ def get_product_page(pathname):
                     html.Hr(),
                     html.H3("Product Description", style={'marginBottom': '10px'}),
                     html.P(description),
+                    html.Hr(),
+                    html.H3("Warranty", style={'marginBottom': '10px'}),
+                    html.P(warranty),
+                    html.Hr(),
+                    html.H3("Inventory", style={'marginBottom': '10px'}),
+                    html.P(inventory),
+                    html.Hr(),
+                    html.H3("Refundable", style={'marginBottom': '10px'}),
+                    html.P(refundable),
+                    html.Hr(),
+                    html.H3("reviews", style={'marginBottom': '10px'}),
+                    html.P(reviews),
                 ], style={
                     'border': '2px solid #007BFF',
                     'borderRadius': '10px',
@@ -193,7 +236,7 @@ def get_product_page(pathname):
             ], style={'flex': '3', 'backgroundColor': '#d0d0d0', 'padding': '5px'}),
 
             html.Div([
-                html.H1("Simple Chat Interface", style={'textAlign': 'center'}),
+                html.H1("Chat Support", style={'textAlign': 'center'}),
                 html.Hr(),
 
                 # User input field
@@ -233,7 +276,7 @@ def get_product_page(pathname):
                     'backgroundColor': '#ffffff',
                     'borderRadius': '5px'
                 })
-            ], style={'flex': '3', 'backgroundColor': '#d0d0d0', 'padding': '5px'})
+            ], style={'flex': '3', 'backgroundColor': '#E6E6E6', 'padding': '5px'})
         ], style={'display': 'flex', 'height': '100%'}),
 
         html.Div(
@@ -276,7 +319,7 @@ def get_user_order():
         'boxShadow': '0 5px 15px rgba(0, 0, 0, 0.1)',
     }
     header_style = {
-        'backgroundColor': '#4CAF50',
+        'backgroundColor': '#C3E7F5',
         'color': 'white',
         'fontWeight': 'bold',
     }
@@ -337,7 +380,7 @@ def get_user_order():
 
 def get_user_page():
     page_layout = html.Div([
-        html.H1("HELLO! PARAMVEER", style={'textAlign': 'center'}),
+        html.H1("HELLO! PARAMVEER", style={'display': 'flex','alignItems': 'center','justifyContent': 'space-between','padding': '15px 20px', 'backgroundColor': '#87CEEB', 'borderBottom': '2px solid #DEE2E6','boxShadow': '0 2px 5px rgba(0, 0, 0, 0.1)','fontFamily': 'Arial, sans-serif','borderRadius': '8px'}),
 
         html.Div([
             html.Div([   
@@ -350,19 +393,19 @@ def get_user_page():
                 html.Div([
                 
                     html.Div([
-                        html.H4("Product A", style={'marginBottom': '5px'}),
+                        html.H4("Portable Projector", style={'marginBottom': '5px'}),
                         html.P("Great product! I really enjoyed using it. The quality is top-notch and it arrived on time.", style={'margin': '5px 0'}),
                         html.P("Rating: ★★★★☆", style={'color': '#FFD700', 'margin': '5px 0'})
                     ], style={'padding': '10px', 'borderBottom': '1px solid #ddd'}),
 
                     html.Div([
-                        html.H4("Product B", style={'marginBottom': '5px'}),
+                        html.H4("Wireless Earbuds", style={'marginBottom': '5px'}),
                         html.P("Good value for money. The product does what it says. Would recommend to others.", style={'margin': '5px 0'}),
                         html.P("Rating: ★★★☆☆", style={'color': '#FFD700', 'margin': '5px 0'})
                     ], style={'padding': '10px', 'borderBottom': '1px solid #ddd'}),
 
                     html.Div([
-                        html.H4("Product C", style={'marginBottom': '5px'}),
+                        html.H4("4K Smart TV", style={'marginBottom': '5px'}),
                         html.P("Not satisfied with the product. It didn't meet my expectations. The delivery was delayed.", style={'margin': '5px 0'}),
                         html.P("Rating: ★★☆☆☆", style={'color': '#FFD700', 'margin': '5px 0'})
                     ], style={'padding': '10px', 'borderBottom': '1px solid #ddd'})
@@ -373,7 +416,7 @@ def get_user_page():
             
             # Chat bot section
             html.Div([
-                html.H3("Simple Chat Interface", style={'textAlign': 'center'}),
+                html.H3("Chat Support", style={'textAlign': 'center'}),
                 html.Hr(),
                 dcc.Input(id='user-input', type='text', value='', style={'width': '95%', 'margin': '10px'}),
                 html.Button(
@@ -407,7 +450,7 @@ def get_user_page():
                     'backgroundColor': '#ffffff',
                     'borderRadius': '5px'
                 })
-            ], style={'flex': '3', 'backgroundColor': '#d0d0d0', 'padding': '5px'})
+            ], style={'flex': '3', 'backgroundColor': '#E6E6E6', 'padding': '5px'})
         ], style={'display': 'flex', 'height': '100%'}),
     ])
 
