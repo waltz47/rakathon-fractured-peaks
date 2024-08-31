@@ -107,10 +107,10 @@ from tqdm import tqdm
 modelname = r"heirtothedemon/ecom_bot_prod"
 model_username = r"heirtothedemon/ecom_bot_user"
 
-model = AutoModelForCausalLM.from_pretrained(modelname).to("cuda")
+model = AutoModelForCausalLM.from_pretrained(modelname).to("cpu")
 tokenizer = AutoTokenizer.from_pretrained(modelname)
 
-model_user = AutoModelForCausalLM.from_pretrained(model_username).to("cuda")
+model_user = AutoModelForCausalLM.from_pretrained(model_username).to("cpu")
 tokenizer_user = AutoTokenizer.from_pretrained(model_username)
 
 print("Loaded prod bot")
@@ -165,7 +165,7 @@ erag = data_rag(df,df_user)
 def prod_inference(prompt,max_new_tokens=128, temperature=0.3, top_k=100,top_p=0.95, additional_context=None):
     model.eval()
     dialogue_template = get_dialogue_template()
-    device = "cuda"
+    device = "cpu"
     
     if additional_context is not None:
         additional_context = str(additional_context).strip()
@@ -202,7 +202,7 @@ def prod_inference(prompt,max_new_tokens=128, temperature=0.3, top_k=100,top_p=0
 def user_inference(prompt,max_new_tokens=128, temperature=0.3, top_k=100,top_p=0.95, additional_context=None):
     model.eval()
     dialogue_template = get_dialogue_template()
-    device = "cuda"
+    device = "cpu"
     
     if additional_context is not None:
         additional_context = str(additional_context).strip()
